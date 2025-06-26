@@ -26,7 +26,9 @@
   "Stella Recommended": "",
   "Image": "Chablis Domaine SeguinotBordet 2023.png",
   "Region Image": "Bourgogne.svg",
-  "Summary": "**Chablis Domaine Séguinot-Bordet 2023** is a classic, unoaked Chardonnay from the limestone-rich soils of **Chablis, Burgundy**. Aged 9 months on fine lees, it offers **medium body**, a **rounded mouthfeel**, and aromas of **ripe peaches, apricots**, and **verbena**. Its **complex yet vibrant** style pairs beautifully with **salmon**, **trout**, or **light salads**."
+  "Summary": "**Chablis Domaine Séguinot-Bordet 2023** is a classic, unoaked Chardonnay from the limestone-rich soils of **Chablis, Burgundy**. Aged 9 months on fine lees, it offers **medium body**, a **rounded mouthfeel**, and aromas of **ripe peaches, apricots**, and **verbena**. Its **complex yet vibrant** style pairs beautifully with **salmon**, **trout**, or **light salads**.",
+  "DOC": false,
+  "DOCG": false
 },
 {
   "Wine Type": "White",
@@ -55,7 +57,9 @@
   "Stella Recommended": "",
   "Image": "VerticalTechSheet_SC_CH_2022_v5_text.png",
   "Region Image": "Sonoma_county.svg",
-  "Summary": "**Flowers Sonoma Coast Chardonnay 2022** is a **mineral-driven**, **light-to-medium-bodied** white wine with **coastal freshness** and delicate notes of **white flowers, citrus, herbs**, and **almond skin**. Fermented with native yeast and aged in French oak, it showcases the elegance and savory character of the Sonoma Coast."
+  "Summary": "**Flowers Sonoma Coast Chardonnay 2022** is a **mineral-driven**, **light-to-medium-bodied** white wine with **coastal freshness** and delicate notes of **white flowers, citrus, herbs**, and **almond skin**. Fermented with native yeast and aged in French oak, it showcases the elegance and savory character of the Sonoma Coast.",
+  "DOC": false,
+  "DOCG": false
 },
 {
   "Wine Type": "White",
@@ -84,7 +88,9 @@
   "Stella Recommended": "",
   "Image": "Grgich-Hills-Chardonnay-2022.png.jpeg",
   "Region Image": "Napa.svg",
-  "Summary": "**Grgich Hills Estate Chardonnay 2022** is a **medium-bodied**, vibrant white wine from **Napa Valley**, made with **100% estate-grown Chardonnay**. Unoaked in style, it preserves fresh acidity and features **aromas of white peach and key lime**, a **juicy citrus and tropical fruit palate**, and a **long, flavorful finish**. Aged 10 months in French oak (40% new), it’s a fresh and elegant expression of Napa Chardonnay."
+  "Summary": "**Grgich Hills Estate Chardonnay 2022** is a **medium-bodied**, vibrant white wine from **Napa Valley**, made with **100% estate-grown Chardonnay**. Unoaked in style, it preserves fresh acidity and features **aromas of white peach and key lime**, a **juicy citrus and tropical fruit palate**, and a **long, flavorful finish**. Aged 10 months in French oak (40% new), it’s a fresh and elegant expression of Napa Chardonnay.",
+  "DOC": false,
+  "DOCG": false
 },
 {
   "Wine Type": "White",
@@ -102,7 +108,7 @@
   "Flavor": "Delicate and dry with a fresh acidity and almond-like finish",
   "Style": "Classic, dry white from Gavi",
   "Vinification": "Traditional fermentation in temperature-controlled stainless steel tanks",
-  "Maturation": "",
+  "Maturation": "None. preserving freshness with short-term aging:",
   "Type of cask": "Steel",
   "Color": "Pale straw yellow with greenish hues",
   "Region": "Piedmont, Italy",
@@ -114,7 +120,9 @@
   "Stella Recommended": "",
   "Image": "bobo_eng.png",
   "Region Image": "Piedmont.svg",
-  "Summary": "**Gavi DOCG White Label** is a **light-to-medium-bodied** white wine from **Rovereto di Gavi**, the heart of the Cortese grape. Vinified in steel for freshness, it shows **elegant aromas**, a **delicate, dry palate**, and a **touch of almond** on the finish. A refreshing choice for seafood, light pastas, or as an aperitif."
+  "Summary": "**Gavi DOCG White Label** is a **light-to-medium-bodied** white wine from **Rovereto di Gavi**, the heart of the Cortese grape. Vinified in steel for freshness, it shows **elegant aromas**, a **delicate, dry palate**, and a **touch of almond** on the finish. A refreshing choice for seafood, light pastas, or as an aperitif.",
+  "DOC": false,
+  "DOCG": true
 },
 {
   "Wine Type": "White",
@@ -144,7 +152,9 @@
   "Stella Recommended": "",
   "Image": "marco-felluga-mongris-pinot-grigio-collio-doc.png",
   "Region Image": "Friuli.svg",
-  "Summary": "**Marco Felluga 'Mongris' Pinot Grigio** from **Collio DOC** in **Friuli-Venezia Giulia** is a **well-structured**, **mineral-driven** white wine made from **100% Pinot Grigio**. Cold maceration on the skins and 6 months of lees aging in stainless steel tanks provide depth and freshness. Expect subtle floral aromas and a fresh, balanced finish."
+  "Summary": "**Marco Felluga 'Mongris' Pinot Grigio** from **Collio DOC** in **Friuli-Venezia Giulia** is a **well-structured**, **mineral-driven** white wine made from **100% Pinot Grigio**. Cold maceration on the skins and 6 months of lees aging in stainless steel tanks provide depth and freshness. Expect subtle floral aromas and a fresh, balanced finish.",
+  "DOC": true,
+  "DOCG": false
 },
 {
   "Wine Type": "White",
@@ -173,7 +183,9 @@
   "Stella Recommended": "",
   "Image": "Tyrus-Evan-Pinot-Gris-2022.png",
   "Region Image": "Willamette.png",
-  "Summary": "**Tyrus Evan Pinot Gris 2022** is an **elegant white wine** from **Willamette Valley, Oregon**, made from **100% Pinot Gris**. Bursting with **aromas of yellow pear, peach, honeysuckle, and chamomile**, it offers a **richly textured palate** and a **silken, mouthcoating finish**. Selected and blended by Ken and Carson Wright, this wine beautifully expresses Oregon’s aromatic white wine character."
+  "Summary": "**Tyrus Evan Pinot Gris 2022** is an **elegant white wine** from **Willamette Valley, Oregon**, made from **100% Pinot Gris**. Bursting with **aromas of yellow pear, peach, honeysuckle, and chamomile**, it offers a **richly textured palate** and a **silken, mouthcoating finish**. Selected and blended by Ken and Carson Wright, this wine beautifully expresses Oregon’s aromatic white wine character.",
+  "DOC": false,
+  "DOCG": false
 },
 {
   "Wine Type": "White",
@@ -202,7 +214,9 @@
   "Stella Recommended": "",
   "Image": "SB2023_TechSheet.png",
   "Region Image": "Napa.svg",
-  "Summary": "**Cakebread Sauvignon Blanc 2023** is a **light-bodied**, **vibrant white wine** made from **99% Sauvignon Blanc and 1% Semillon**. It opens with **grapefruit, lemon curd, melon, and passionfruit aromas**, followed by **kiwi, citrus zest, mango**, and **pineapple flavors**. Fermented in stainless steel and concrete eggs, then aged 5 months in a mix of **neutral French oak, stainless steel, and concrete**, it delivers a crisp, mineral-driven finish with lively acidity."
+  "Summary": "**Cakebread Sauvignon Blanc 2023** is a **light-bodied**, **vibrant white wine** made from **99% Sauvignon Blanc and 1% Semillon**. It opens with **grapefruit, lemon curd, melon, and passionfruit aromas**, followed by **kiwi, citrus zest, mango**, and **pineapple flavors**. Fermented in stainless steel and concrete eggs, then aged 5 months in a mix of **neutral French oak, stainless steel, and concrete**, it delivers a crisp, mineral-driven finish with lively acidity.",
+  "DOC": false,
+  "DOCG": false
 },
 {
   "Wine Type": "White",
@@ -231,13 +245,15 @@
   "Stella Recommended": "",
   "Image": "PEJU-2023-Legacy-Sauv-Blanc.png",
   "Region Image": "Napa.svg",
-  "Summary": "**PEJU Legacy Sauvignon Blanc 2023** is a **light-bodied**, vibrant white wine from California’s **North Coast**. Crafted in stainless steel to preserve freshness, it bursts with **pineapple, kiwi, grapefruit**, and **key lime**. Its **zesty acidity** and **clean finish** make it a perfect match for seafood, salads, or sunny afternoons."
+  "Summary": "**PEJU Legacy Sauvignon Blanc 2023** is a **light-bodied**, vibrant white wine from California’s **North Coast**. Crafted in stainless steel to preserve freshness, it bursts with **pineapple, kiwi, grapefruit**, and **key lime**. Its **zesty acidity** and **clean finish** make it a perfect match for seafood, salads, or sunny afternoons.",
+  "DOC": false,
+  "DOCG": false
 }
 ,
 {
   "Wine Type": "White",
   "Blend": "85% Vermentino, 15% Viognier",
-  "Wine Name": "Plinio Vermentino Maremma Toscana DOC",
+  "Wine Name": "Plinio Vermentino Maremma Toscana",
   "Vintage": "",
   "Tannin Level": "",
   "Tannin Characteristics": "",
@@ -262,6 +278,8 @@
   "Stella Recommended": "",
   "Image": "Bruni_Plinio-2.png",
   "Region Image": "Tuscany.svg",
-  "Summary": "**Plinio Vermentino Maremma Toscana DOC** is a **full-bodied**, **fresh and aromatic** white blend of **85% Vermentino and 15% Viognier**. With notes of **exotic fruit, peach, herbs, and wildflowers**, it finishes **long and mineral**. A perfect Tuscan pairing for shellfish and seafood antipasti."
+  "Summary": "**Plinio Vermentino Maremma Toscana DOC** is a **full-bodied**, **fresh and aromatic** white blend of **85% Vermentino and 15% Viognier**. With notes of **exotic fruit, peach, herbs, and wildflowers**, it finishes **long and mineral**. A perfect Tuscan pairing for shellfish and seafood antipasti.",
+  "DOC": true,
+  "DOCG": false
 }
 ]
