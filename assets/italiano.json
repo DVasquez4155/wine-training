@@ -24,12 +24,14 @@
     "Sweetness": "Dry",
     "Varietal": "Barbera",
     "General Recommended Accompanies": "Pasta with sauce, poultry, red meats like beef and pork, international dishes.",
-    "Stella Recommended": "Gnocchi di Patate \u201cNonna Nilla\u201d (Italian sausage and porcini ragu), Rigatoni al Ragu di Maiale, Pollo alla Parmigiana",
+    "Stella Recommended": "Gnocchi di Patate \u201cNonna Nilla\u201d (Italian sausage and porcini ragu), Rigatoni al Ragu di Maiale, Filetto",
     "Image": "1710286x.jpg",
     "Region Image": "Piedmont.svg",
     "Summary": "An **exceptional Barbera** showing a **wonderful clarity and elegance**. **Bright ruby red** in color with **aromas of red berries, cherry, wild raspberry, and sweet tobacco**. **Full-bodied and structured** with a **rounded texture** and **savory finish**. From the **better exposed vineyards of La Court Estate** in **Nizza DOCG**, matured in **large oak casks** and refined in bottle. **Previously part of Barbera d'Asti DOCG**, Nizza was **elevated to DOCG in 2014**.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 80
   },
   {
     "Wine Type": "Red",
@@ -56,12 +58,14 @@
     "Sweetness": "Dry",
     "Varietal": "Barbera",
     "General Recommended Accompanies": "Pasta, risotto, roasted meats, cheese, and salami.",
-    "Stella Recommended": "Gnocchi di Patate \u201cNonna Nilla\u201d (Italian sausage and porcini ragu), Rigatoni al Ragu di Maiale, Pollo alla Parmigiana",
+    "Stella Recommended": "Gnocchi di Patate \u201cNonna Nilla\u201d (Italian sausage and porcini ragu), Rigatoni al Ragu di Maiale, Maiale con Pancetta e Aglio",
     "Image": "c13a410-0-0.jpg",
     "Region Image": "Piedmont.svg",
     "Summary": "**Pajena Barbera d'Alba** is a **rich and impressive** red wine crafted from **100% Barbera** grapes grown in **Piedmont**. With a **deep ruby red** color and **aromas of violet, cherry, plum, and spices**, this wine offers a **fresh, velvety palate** with **silky acidity** and **medium to full body**. Aged **8 months in oak**, it is ideal with pasta, risotto, and roasted meats.",
     "DOCG": false,
-    "DOC": true
+    "DOC": true,
+    "Glass_Price": 0,
+    "Bottle_Price": 68
   },
   {
     "Wine Type": "Red",
@@ -88,12 +92,14 @@
     "Sweetness": "Dry",
     "Varietal": "Nebbiolo",
     "General Recommended Accompanies": "Rich meats, aged cheeses, hearty stews, and mushroom dishes.",
-    "Stella Recommended": "Osso Buco di Vitello, Scottadito di Agnello, Spezzatino al Barolo",
-    "Image": "2021_prunotto_barbaresco.webp",
+    "Stella Recommended": "Osso Buco di Vitello, Scottadito di Agnello, Filetto",
+    "Image": "2021_prunotto_barbaresco.png",
     "Region Image": "Piedmont.svg",
     "Summary": "**Prunotto Barbaresco 2021** is a **refined and full-bodied expression of Nebbiolo** from **Treiso and Neive** in **Barbaresco DOCG**. With an **intense garnet red** color, it offers **complex aromas of red fruit and spice**, a **velvety texture**, and a **persistent finish**. Aged **12 months in oak barrels**, this wine combines **elegance and structure**, ideal for pairing with rich meats and aged cheeses.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 124
   },
   {
     "Wine Type": "Red",
@@ -124,7 +130,9 @@
     "Region Image": "Piedmont.svg",
   "Summary": "**Pio Cesare Barolo 2019** is a full-bodied, structured Nebbiolo with floral and red berry aromas, layered fruit and mineral flavors, and a long, elegant finish. Aged 3 years in French oak with aging potential through 2045.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 195
   },
   {
     "Wine Type": "Red",
@@ -152,11 +160,13 @@
     "Varietal": "Nebbiolo",
     "General Recommended Accompanies": "Braised meats, game, truffle dishes, and aged cheeses.",
     "Stella Recommended": "Osso Buco di Vitello, Scottadito di Agnello, Spezzatino al Barolo",
-    "Image": "2019-massolino-barolo-parussi-italy-red-105794-750-ai-0518_1.webp",
+    "Image": "Massolino Barolo 2019.png",
     "Region Image": "Piedmont.svg",
     "Summary": "**Massolino Barolo 2019** is a **full-bodied, structured Nebbiolo** from **Serralunga d'Alba** in the **Barolo DOCG**. It features **complex aromas of roses, wild berries, and spice**, and a **rich, textured palate** with **refined tannins** and **long aging potential**. Aged **30 months in large Slavonian oak barrels**, this Barolo embodies **elegance, power, and classic expression** of the region.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 158
   },
   {
     "Wine Type": "Red",
@@ -188,7 +198,9 @@
     "Region Image": "Piedmont.svg",
     "Summary": "**Travaglini Gattinara 2013** is a **full-bodied, high-acidity Nebbiolo** from the **rocky, mineral-rich soils** of **Gattinara DOCG** in **Piedmont**. With **aromas of red fruit, blackberry, plum, and leather**, it delivers **intense cherry and raspberry flavors** with **firm tannins** and a **long, smooth finish**. Aged **30 months in Slavonian oak**, this wine reflects its **alpine terroir** and **winemaking heritage**.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 89
   },
   {
     "Wine Type": "Red",
@@ -215,12 +227,14 @@
     "Sweetness": "Dry",
     "Varietal": "Sangiovese",
     "General Recommended Accompanies": "Braised meats, roasted game, aged cheeses, and rich pasta dishes.",
-    "Stella Recommended": "",
+    "Stella Recommended": "Osso Buco, Spezzatini, lasagna Filetto Bolognese",
     "Image": "qVBzhbXDTYCifRluKcmIaA_pb_x960.png",
     "Region Image": "Tuscany.svg",
     "Summary": "**Pian delle Vigne Brunello di Montalcino 2019** is a **vibrant, elegant Sangiovese** from the **historic Pian delle Vigne Estate** in **Tuscany**. Aged **two years in large oak barrels** and **refined in bottle**, it delivers **aromas of cherry, blood orange, violet, and balsamic notes**, with a **silky palate**, **fresh acidity**, and a **long, citrus-driven finish**. A classic Brunello from the renowned Antinori family.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 89
   },
   {
     "Wine Type": "Red",
@@ -247,12 +261,14 @@
     "Sweetness": "Dry",
     "Varietal": "Corvina, Rondinella, Molinara",
     "General Recommended Accompanies": "Braised beef, aged cheeses, stews, and dark chocolate desserts.",
-    "Stella Recommended": "",
+    "Stella Recommended": "Spezzatino, Filetto, Spaghetti Bolognese",
     "Image": "1757659x.jpg",
     "Region Image": "Veneto.svg",
     "Summary": "**Le Ragose Amarone della Valpolicella Classico 2015** is a **powerful and age-worthy Amarone** made using the **traditional appassimento method** in the **Valpolicella Classico** zone. Aged **36 months in large oak barrels**, it shows **rich aromas of cherries, figs, and spice**, and a **velvety, full-bodied palate** with a **long, intense finish**. A benchmark wine from the **hillsides of Negrar**, ideal for pairing with hearty dishes and aged cheeses.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 189
   },
   {
     "Wine Type": "Red",
@@ -279,12 +295,14 @@
     "Sweetness": "Dry",
     "Varietal": "Sangiovese Grosso blend",
     "General Recommended Accompanies": "Game, pork, cheese, red meats.",
-    "Stella Recommended": "",
+    "Stella Recommended": "Rigatoni al Ragu Maiale, Mail con pancetta e Aglio, Filetto",
     "Image": "158209.webp",
     "Region Image": "Tuscany.svg",
     "Summary": "**Poliziano Vino Nobile di Montepulciano 2021** is an **organic red wine** from **Tuscany**, made with **Sangiovese Grosso and local varieties**. It features **wild fruit, violets, and spice aromas**, a **full-bodied palate**, and **warm, persistent tannins**. Aged 14\u201316 months in French oak and vats, it reflects Montepulciano\u2019s terroir and sustainability.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 58
   },
   {
     "Wine Type": "Red",
@@ -311,11 +329,12 @@
     "Sweetness": "Dry",
     "Varietal": "Sangiovese",
     "General Recommended Accompanies": "Beefsteak Florentine-style, white beans with olive oil.",
-    "Stella Recommended": "",
+    "Stella Recommended": "Lasagna con Filetto, Penne All Arrabbiata, Filetto",
     "Image": "TDN_ChiantiClassico@2x-min.png",
     "Region Image": "Tuscany.svg",
     "Summary": "**Nozzole Chianti Classico 2021** is a **100% Sangiovese** red from **Greve in Chianti**. Aged 10\u201312 months in French oak, it offers **floral aromas**, **firm tannins**, and **bright ruby color**, capturing the elegance and structure of the 2021 vintage in Tuscany.",
     "Glass_Price": 16,
+    "Bottle_Price": 65,
     "DOCG": true,
     "DOC": false
   },
@@ -344,12 +363,14 @@
     "Sweetness": "Dry",
     "Varietal": "Sangiovese",
     "General Recommended Accompanies": "Red meats, aged cheeses, wild game, and savory pasta dishes.",
-    "Stella Recommended": "",
+    "Stella Recommended": "Osso Buco, Lasagna Filetto, spezzatino",
     "Image": "fsdn0mzrhxyatigvcije.webp",
     "Region Image": "Tuscany.svg",
     "Summary": "**Tenuta di Arceno Chianti Classico Riserva 2019** blends **90% Sangiovese** with **10% Cabernet Sauvignon**. Aged in French oak, this wine offers rich notes of **black cherry, dried flowers, and savory herbs**, showcasing the structure and elegance of the **Chianti Classico Riserva** style.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 85
   },
   {
     "Wine Type": "Red",
@@ -376,11 +397,12 @@
     "Sweetness": "Dry",
     "Varietal": "Nero d\u2019Avola",
     "General Recommended Accompanies": "Lamb, roasted meats, aged cheeses, and rich pasta dishes.",
-    "Stella Recommended": "",
+    "Stella Recommended": "Scottadito, Spezzatino, Gnocchi Nonna Nilla gorgonzola sauce",
     "Image": "Tenuta-Regaleali-Lamuri-2022.webp",
     "Region Image": "Sicily.svg",
     "Summary": "**Tenuta Regaleali Lam\u00f9ri** is a **refined Sicilian Nero d\u2019Avola** grown at **high altitudes** to preserve **elegance and freshness**. Aged in **French oak barrels**, it expresses **aromas of cherry, spice, and vanilla**, with a **balanced palate and silky tannins**, making it an **excellent pairing for grilled meats and aged cheeses**.",
     "Glass_Price": 18,
+    "Bottle_Price": 74,
     "DOCG": false,
     "DOC": true
   },
@@ -409,12 +431,14 @@
     "Sweetness": "Dry",
     "Varietal": "Nebbiolo (Chiavennasca), Merlot",
     "General Recommended Accompanies": "Game, roasted red meats, and mature cheeses.",
-    "Stella Recommended": "",
+    "Stella Recommended": "Milanese do Pollo, Maiale con Pancetta e Aglio, Spaghetti Bolognese ",
     "Image": "nino-negri-quadrio-2020.jpeg",
     "Region Image": "Lombardy.svg",
     "Summary": "**2020 Nino Negri Valtellina Superiore DOCG Quadrio** is a unique expression of **Nebbiolo** softened by **Merlot**, grown on Valtellina\u2019s steep terraces. Aged 18 months in oak, it offers aromas of **raspberry jam and violets**, with **elegant tannins and vibrant drinkability**, showcasing the character of its historic Castello Quadrio home.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 65
   },
   {
     "Wine Type": "Red",
@@ -441,12 +465,14 @@
     "Sweetness": "Dry",
     "Varietal": "Corvina Veronese, Corvinone Veronese, Rondinella",
     "General Recommended Accompanies": "Game, roasted and grilled meats, full-flavored dishes, mature cheeses.",
-    "Stella Recommended": "",
+    "Stella Recommended": "Osso Buco, Scottadito, Gnocchi with Gorgonzola Sauce",
     "Image": "campagnola-amarone.jpg",
     "Region Image": "Veneto.svg",
     "Summary": "**Campagnola Amarone della Valpolicella Classico** is crafted from **hand-selected grapes naturally dried for 100 days**, then aged in both **large oak** and **French barriques**. This **full-bodied Amarone** delivers rich layers of **cherry, plum, almond, and vanilla**, with a **long, elegant finish**.",
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 80
   },
   {
     "Wine Type": "Red",
@@ -473,12 +499,14 @@
     "Sweetness": "Dry",
     "Varietal": "Primitivo",
     "General Recommended Accompanies": "Pizza, pasta with red sauce, baked dishes, seafood like tuna or swordfish.",
-    "Stella Recommended": "",
+    "Stella Recommended": "Eggplant Parmigiana, Scottadito, Penne all'Amatriciana",
     "Image": "Primitivo.png",
     "Region Image": "Apulia.svg",
     "Summary": "**Cantele Primitivo** is a **plush and flavorful red wine** from Puglia, offering **ripe cherry and prune aromas** with **floral and spice hints**. Aged in **American oak**, this wine balances **fruit, tannin, and acidity** for a **smooth, satisfying finish**\u2014perfect with **pasta, pizza**, and even **seafood**.",
     "DOCG": false,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 78
   },
   {
     "Wine Type": "Red",
@@ -540,10 +568,13 @@
     "Varietal": "Syrah, Merlot, Sangiovese",
     "Farming Practice": "Sustainable (inferred)",
     "General Recommended Accompanies": "Pastas, meat dishes, charcuterie, pizza, blue cheese",
+    "Stella Recommended": "Rigatoni al Ragu di Maiale, Maiale con Pancetta e Aglio, Scottadito",
     "Summary": "Querceto Red 2020 blends Syrah, Merlot, and Sangiovese from Chianti and Valdarno to create a savory, fruit-laced wine with depth, spice, and food-friendly balance.",
     "Image": "CdQ-Tuscan-Red-Tech-Sheet-2020-vintage.png",
     "Region Image": "Tuscany.svg",
     "DOCG": false,
-    "DOC": false
+    "DOC": false,
+    "Glass_Price": 14,
+    "Bottle_Price": 0
   }
 ]
