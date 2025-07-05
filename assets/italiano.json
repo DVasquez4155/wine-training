@@ -302,7 +302,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 58
+    "Bottle_Price": 0,
+    "Half_Bottle_Price": 58
   },
   {
     "Wine Type": "Red",

@@ -28,7 +28,9 @@
   "Region Image": "Bourgogne.svg",
   "Summary": "**Chablis Domaine Séguinot-Bordet 2023** is a classic, unoaked Chardonnay from the limestone-rich soils of **Chablis, Burgundy**. Aged 9 months on fine lees, it offers **medium body**, a **rounded mouthfeel**, and aromas of **ripe peaches, apricots**, and **verbena**. Its **complex yet vibrant** style pairs beautifully with **salmon**, **trout**, or **light salads**.",
   "DOC": false,
-  "DOCG": false
+  "DOCG": false,
+  "Glass_Price": 0,
+  "Bottle_Price": 80
 },
 {
   "Wine Type": "White",
@@ -59,7 +61,9 @@
   "Region Image": "Sonoma_County.svg",
   "Summary": "**Flowers Sonoma Coast Chardonnay 2022** is a **mineral-driven**, **light-to-medium-bodied** white wine with **coastal freshness** and delicate notes of **white flowers, citrus, herbs**, and **almond skin**. Fermented with native yeast and aged in French oak, it showcases the elegance and savory character of the Sonoma Coast.",
   "DOC": false,
-  "DOCG": false
+  "DOCG": false,
+  "Glass_Price": 0,
+  "Bottle_Price": 105
 },
 {
   "Wine Type": "White",
@@ -90,7 +94,43 @@
   "Region Image": "Napa.svg",
   "Summary": "**Grgich Hills Estate Chardonnay 2022** is a **medium-bodied**, vibrant white wine from **Napa Valley**, made with **100% estate-grown Chardonnay**. Unoaked in style, it preserves fresh acidity and features **aromas of white peach and key lime**, a **juicy citrus and tropical fruit palate**, and a **long, flavorful finish**. Aged 10 months in French oak (40% new), it’s a fresh and elegant expression of Napa Chardonnay.",
   "DOC": false,
-  "DOCG": false
+  "DOCG": false,
+  "Glass_Price": 25,
+  "Bottle_Price": 98
+},
+{
+  "Wine Type": "White",
+  "Blend": "100% Chardonnay",
+  "Wine Name": "Sonoma-Cutrer Sonoma Coast Chardonnay",
+  "Vintage": 2023,
+  "Tannin Level": "",
+  "Tannin Characteristics": "",
+  "Body": "Medium",
+  "Body Characteristics": "Lush and structured with ripe pear and golden apple balanced by bright acidity and a soft mid-palate.",
+  "Finish": "Sophisticated",
+  "Finish Characterstics": "Gentle barrel spice and vibrant fruit character.",
+  "Acidity": "Bright",
+  "Aroma": "Stone fruit, apple blossom, honeydew, pineapple, subtle oak spice",
+  "Flavor": "Ripe pear, golden delicious apple, hints of oak spice",
+  "Style": "Classic, structured Sonoma Coast Chardonnay",
+  "Vinification": "Whole cluster pressed; fermented in a mix of French oak barrels and stainless steel tanks; 100% malolactic fermentation",
+  "Maturation": "8 months oak aging (14% new); sur-lie aged in French oak",
+  "Type of cask": "French oak and stainless steel (Remond, Rousseau, TW Boswell)",
+  "Color": "Medium straw",
+  "Region": "Sonoma Coast, California",
+  "Vineyard": "Estate vineyards and selected growers",
+  "Sweetness": "Dry",
+  "Varietal": "Chardonnay",
+  "General Recommended Accompanies": "Gourmet meals, poultry, seafood, creamy pastas, or enjoyed on its own",
+  "Stella Recommended": "",
+  "Image": "SonomaCutrerChard.png",
+  "Region Image": "Sonoma_County.svg",
+  "Summary": "**Sonoma-Cutrer Sonoma Coast Chardonnay 2023** is a **medium-bodied**, **elegantly structured Chardonnay** from **Sonoma Coast**, offering aromas of **stone fruit, apple blossom, and pineapple**, with **ripe pear and golden apple on the palate**. Balanced by **bright acidity** and a **gentle barrel spice finish**, it's versatile with food or solo sipping.",
+  "DOC": false,
+  "DOCG": false,
+  "Glass_Price": 0,
+  "Bottle_Price": 0,
+  "Half_Bottle_Price": 42
 },
 {
   "Wine Type": "White",
@@ -122,13 +162,15 @@
   "Region Image": "Piedmont.svg",
   "Summary": "**Gavi DOCG White Label** is a **light-to-medium-bodied** white wine from **Rovereto di Gavi**, the heart of the Cortese grape. Vinified in steel for freshness, it shows **elegant aromas**, a **delicate, dry palate**, and a **touch of almond** on the finish. A refreshing choice for seafood, light pastas, or as an aperitif.",
   "DOC": false,
-  "DOCG": true
+  "DOCG": true,
+  "Glass_Price": 0,
+  "Bottle_Price": 60
 },
 {
   "Wine Type": "White",
   "Blend": "100% Pinot Grigio",
   "Wine Name": "Marco Felluga 'Mongris' Pinot Grigio",
-  "Vintage": "",
+  "Vintage": 2023,
   "Tannin Level": "",
   "Tannin Characteristics": "",
   "Body": "Medium",
@@ -154,12 +196,14 @@
   "Region Image": "Friuli.svg",
   "Summary": "**Marco Felluga 'Mongris' Pinot Grigio** from **Collio DOC** in **Friuli-Venezia Giulia** is a **well-structured**, **mineral-driven** white wine made from **100% Pinot Grigio**. Cold maceration on the skins and 6 months of lees aging in stainless steel tanks provide depth and freshness. Expect subtle floral aromas and a fresh, balanced finish.",
   "DOC": true,
-  "DOCG": false
+  "DOCG": false,
+  "Glass_Price": 0,
+  "Bottle_Price": 62
 },
 {
   "Wine Type": "White",
   "Blend": "100% Pinot Gris",
-  "Wine Name": "Tyrus Evan Pinot Gris",
+  "Wine Name": "Ken Wright \"Tyrus Evan\" Pinot Gris",
   "Vintage": 2022,
   "Tannin Level": "",
   "Tannin Characteristics": "",
@@ -185,7 +229,9 @@
   "Region Image": "Willamette.png",
   "Summary": "**Tyrus Evan Pinot Gris 2022** is an **elegant white wine** from **Willamette Valley, Oregon**, made from **100% Pinot Gris**. Bursting with **aromas of yellow pear, peach, honeysuckle, and chamomile**, it offers a **richly textured palate** and a **silken, mouthcoating finish**. Selected and blended by Ken and Carson Wright, this wine beautifully expresses Oregon’s aromatic white wine character.",
   "DOC": false,
-  "DOCG": false
+  "DOCG": false,
+  "Glass_Price" : 0,
+  "Bottle_Price": 68
 },
 {
   "Wine Type": "White",
@@ -216,7 +262,9 @@
   "Region Image": "Napa.svg",
   "Summary": "**Cakebread Sauvignon Blanc 2023** is a **light-bodied**, **vibrant white wine** made from **99% Sauvignon Blanc and 1% Semillon**. It opens with **grapefruit, lemon curd, melon, and passionfruit aromas**, followed by **kiwi, citrus zest, mango**, and **pineapple flavors**. Fermented in stainless steel and concrete eggs, then aged 5 months in a mix of **neutral French oak, stainless steel, and concrete**, it delivers a crisp, mineral-driven finish with lively acidity.",
   "DOC": false,
-  "DOCG": false
+  "DOCG": false,
+  "Glass_Price": 0,
+  "Bottle_Price": 79
 },
 {
   "Wine Type": "White",
@@ -247,7 +295,9 @@
   "Region Image": "Napa.svg",
   "Summary": "**PEJU Legacy Sauvignon Blanc 2023** is a **light-bodied**, vibrant white wine from California’s **North Coast**. Crafted in stainless steel to preserve freshness, it bursts with **pineapple, kiwi, grapefruit**, and **key lime**. Its **zesty acidity** and **clean finish** make it a perfect match for seafood, salads, or sunny afternoons.",
   "DOC": false,
-  "DOCG": false
+  "DOCG": false,
+  "Glass_Price": 0,
+  "Bottle_Price": 68
 }
 ,
 {
@@ -280,6 +330,74 @@
   "Region Image": "Tuscany.svg",
   "Summary": "**Plinio Vermentino Maremma Toscana DOC** is a **full-bodied**, **fresh and aromatic** white blend of **85% Vermentino and 15% Viognier**. With notes of **exotic fruit, peach, herbs, and wildflowers**, it finishes **long and mineral**. A perfect Tuscan pairing for shellfish and seafood antipasti.",
   "DOC": true,
-  "DOCG": false
+  "DOCG": false,
+  "Glass_Price": 15,
+  "Bottle_Price": 62
+},
+{
+  "Wine Type": "White",
+  "Blend": "100% Chardonnay",
+  "Wine Name": "Chalk Hill Sonoma Coast Chardonnay",
+  "Vintage": 2023,
+  "Tannin Level": "",
+  "Tannin Characteristics": "",
+  "Body": "Medium",
+  "Body Characteristics": "Bright, forward, and balanced with approachable fruit, floral character, and spice.",
+  "Finish": "Long",
+  "Finish Characterstics": "Mineral-driven with balanced acidity and varietal intensity.",
+  "Acidity": "Balanced",
+  "Aroma": "Apple, peach, vanilla, spice, elegant floral notes",
+  "Flavor": "Crisp fruit with spice, floral lift, and minerality",
+  "Style": "Cool-climate Sonoma Coast Chardonnay with complexity and approachability",
+  "Vinification": "Harvested in cool early mornings to preserve vibrant fruit character; regular bâtonnage and partial malolactic fermentation",
+  "Maturation": "Aged sur lie for 9 months in 100% French oak (25% new)",
+  "Type of cask": "French oak (25% new)",
+  "Color": "",
+  "Region": "Sonoma Coast, California",
+  "Vineyard": "Foley Family estate and partner vineyards (Los Carneros, Chalk Hill, Russian River Valley)",
+  "Sweetness": "Dry",
+  "Varietal": "Chardonnay",
+  "General Recommended Accompanies": "Roasted poultry, lobster, crab cakes, creamy vegetable pasta",
+  "Stella Recommended": "",
+  "Image": "",
+  "Region Image": "Sonoma_County.svg",
+  "Summary": "**Chalk Hill Sonoma Coast Chardonnay 2023** is a **medium-bodied**, bright, and approachable white wine. With **apple, peach, vanilla, and floral aromas**, it shows vibrant cool-climate character, **balanced acidity**, and **mineral freshness** from its aging in **French oak barrels**. Ideal for seafood and creamy dishes.",
+  "DOC": false,
+  "DOCG": false,
+  "Glass_Price": 17,
+  "Bottle_Price": 0
+},
+{
+  "Wine Type": "White",
+  "Blend": "100% Sauvignon Blanc",
+  "Wine Name": "Dry Creek Vineyard DCV3 Sauvignon Blanc",
+  "Vintage": 2023,
+  "Tannin Level": "",
+  "Tannin Characteristics": "",
+  "Body": "Light to Medium",
+  "Body Characteristics": "Crisp and refreshing with vibrant acidity and concentrated flavors.",
+  "Finish": "",
+  "Finish Characterstics": "",
+  "Acidity": "Bright",
+  "Aroma": "Meyer lemon, grapefruit, mango, jasmine, geranium",
+  "Flavor": "Lime, peach, passion fruit, parsley, jalapeño, white pepper",
+  "Style": "Stainless steel–fermented Sauvignon Blanc with vibrant character",
+  "Vinification": "Fermented in stainless steel at 50–55˚F for 22–24 days",
+  "Maturation": "No oak; preserved freshness via stainless steel aging",
+  "Type of cask": "Stainless steel",
+  "Color": "",
+  "Region": "Dry Creek Valley, Sonoma County, California",
+  "Vineyard": "DCV3 Vineyard",
+  "Sweetness": "Dry",
+  "Varietal": "Sauvignon Blanc",
+  "General Recommended Accompanies": "Shellfish, goat cheese, citrusy salads, ceviche",
+  "Stella Recommended": "",
+  "Image": "DryCreekVineyard_DCV3_SB_2023.png",
+  "Region Image": "Sonoma_County.svg",
+  "Summary": "**Dry Creek Vineyard DCV3 Sauvignon Blanc 2023** from **Dry Creek Valley** is a **bright and vibrant white wine** with aromas of **Meyer lemon, grapefruit, jasmine**, and **geranium**. The palate bursts with **lime, peach, passion fruit**, and subtle hints of **jalapeño and white pepper**. Fermented in stainless steel for 22–24 days, it preserves crisp acidity and freshness, ideal for pairing with seafood and citrus-forward dishes.",
+  "DOC": false,
+  "DOCG": false,
+  "Glass_Price": 16,
+  "Bottle_Price": 0
 }
 ]

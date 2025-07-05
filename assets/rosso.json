@@ -299,7 +299,8 @@
     "DOC": false,
     "DOCG": false,
     "Glass_Price": 0,
-    "Bottle_Price": 62
+    "Bottle_Price": 0,
+    "Half_Bottle_Price": 62
   },
   {
     "Wine Type": "Red",
