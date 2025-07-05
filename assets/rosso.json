@@ -28,7 +28,9 @@
     "Region Image": "Napa.svg",
     "Summary": "**Far Niente Cabernet Sauvignon 2022** is a full-bodied **Napa Valley red wine** made primarily from **Cabernet Sauvignon**, complemented by **Malbec, Cabernet Franc, Petit Sirah, and Petite Verdot**. Aromas of **berries, spice, lavender, and thyme** lead to a rich, layered palate with fine-grained tannins and a **long, silky finish**. Aged 17 months in French oak.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 255
   },
   {
     "Wine Type": "Red",
@@ -55,11 +57,13 @@
     "Varietal": "Cabernet Sauvignon blend",
     "General Recommended Accompanies": "Braised meats, grilled steak, herb-roasted lamb, aged cheeses",
     "Stella Recommended": "Osso Buco, Scottadito, Filetto",
-    "Image": "Grgich Hills Estate Cabernet Sauvignon 2020.jpg",
+    "Image": "Grgich Hills Estate Cabernet Sauvignon 2020.png",
     "Region Image": "Napa.svg",
     "Summary": "**Grgich Hills Estate Cabernet Sauvignon 2020** is an elegant Napa Valley red wine blending **Cabernet Sauvignon**, **Merlot**, **Petit Verdot**, and **Cabernet Franc**. It offers aromas of **blackberries, blueberries, vanilla, and sandalwood**, followed by a palate of vibrant berry fruit, floral hints, and rosemary. Aged 20 months in French oak with a **soft tannin profile** and **long, balanced finish**.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 26,
+    "Bottle_Price": 110
   },
   {
     "Wine Type": "Red",
@@ -90,7 +94,9 @@
     "Region Image": "Napa.svg",
     "Summary": "**Caymus Cabernet Sauvignon 2022 - 50th Anniversary Edition** is a full-bodied Napa Cabernet crafted entirely from **Cabernet Sauvignon** grapes. Offering aromas of **dark berries, cocoa, and vanilla**, the palate delivers lush richness with **supple tannins** and a **long, harmonious finish**. Aged in French oak to commemorate 50 vintages of excellence.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 195
   },
   {
     "Wine Type": "Red",
@@ -122,7 +128,9 @@
     "Region Image": "Paso Robles.svg",
     "Summary": "**JUSTIN Cabernet Sauvignon 2021** is a **Paso Robles red wine** made entirely from **Cabernet Sauvignon**. Hand-sorted and fermented in stainless steel, it offers aromas of **cherry, sage, cocoa, and spice**, with a savory, complex palate and **smooth tannins**. Aged for 14 months in American oak.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 78
   },
   {
     "Wine Type": "Red",
@@ -154,7 +162,9 @@
     "Region Image": "Napa.svg",
     "Summary": "**Silver Oak Alexander Valley Cabernet Sauvignon 2020** is a richly layered wine made primarily from **Cabernet Sauvignon**, showcasing **cedar, raspberry, cherry, and cola** notes. With **polished tannins**, **balanced acidity**, and a **long, refined finish**, it is aged for 24 months in American oak crafted by Silver Oak\u2019s own cooperage.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 180
   },
   {
     "Wine Type": "Red",
@@ -186,7 +196,9 @@
     "Region Image": "Napa.svg",
     "Summary": "**Dancing Bear Ranch Cabernet Sauvignon 2020** is a full-bodied **Howell Mountain red** from **Cabernet Sauvignon**, **Cabernet Franc**, and **Merlot**. With aromas of **black currant, raspberry jam, chocolate, and herbs**, its firm yet opulent tannins frame a rich palate of **dark fruit, spice, and minerality**. Aged 22 months in French oak for bold, cellar-worthy structure.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 395
   },
   {
     "Wine Type": "Red",
@@ -213,11 +225,13 @@
     "Varietal": "Merlot blend",
     "General Recommended Accompanies": "Herb-roasted meats, mushroom dishes, aged cheeses",
     "Stella Recommended": "Rigatoni al ragu di Maiale, Maiale con Pancetta e Aglio, Scottadito",
-    "Image": "Stags\u2019 Leap Napa Valley Merlot 2020.jpg",
+    "Image": "Stags\u2019 Leap Napa Valley Merlot 2020.png",
     "Region Image": "Napa.svg",
     "Summary": "**Stags\u2019 Leap Napa Valley Merlot 2020** is a polished and expressive Merlot featuring **black cherry, red currant, lavender, chocolate, and vanilla**. Aged 20 months in French oak, it shows creamy richness, **polished tannins**, and a **nuanced, graceful finish**\u2014true to its Southern Napa origins.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 85
   },
   {
     "Wine Type": "Red",
@@ -249,7 +263,9 @@
     "Region Image": "Sonoma_County.svg",
     "Summary": "**Flowers Sonoma Coast Pinot Noir 2023** is a fresh, coastal **California Pinot Noir** showcasing **cranberry, raspberry, rose petal**, and gentle spice aromas. The palate is **bright and layered** with **silky tannins**, a **refined finish**, and true coastal elegance. Aged 10 months in French oak (18% new).",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 26,
+    "Bottle_Price": 112
   },
   {
     "Wine Type": "Red",
@@ -281,7 +297,9 @@
     "Region Image": "Mendocino.svg",
     "Summary": "**Goldeneye Anderson Valley Pinot Noir 2022** is a medium-bodied **Pinot Noir** from **Confluence, Gowan Creek, and The Narrows vineyards**. It delivers aromas of **pennyroyal, cherry, and chanterelle**, with a layered palate of **blackberry, leather, and tea**. Aged 16 months in French oak, it offers a **smooth tannin structure** and **rustic elegance**.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 62
   },
   {
     "Wine Type": "Red",
@@ -313,7 +331,9 @@
     "Region Image": "Willamette.png",
     "Summary": "**Canary Hill Vineyard Pinot Noir 2022** is an organically farmed **Eola-Amity Hills Pinot Noir** with aromas of **blackberry, plum, bramble, and orange rind**. The palate features **juicy dark fruits and earthy notes** supported by **balanced tannins** and a **complex finish**. Aged 10\u201311 months in 20% new French oak.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 148
   },
   {
     "Wine Type": "Red",
@@ -345,7 +365,9 @@
     "Region Image": "Sonoma_County.svg",
     "Summary": "**Langhart & Hill 2022 Russian River Valley Pinot Noir** is a **Sonoma Coast Pinot Noir** that blends **raspberry, cherry, sandalwood**, and floral aromas with a **bright, earthy palate**. Made with native fermentation and partial whole cluster, it is aged 10 months in French oak (20% new) and finishes with **silky tannins** and **elegant complexity**.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 88
   },
   {
     "Wine Type": "Red",
@@ -376,7 +398,9 @@
     "Region Image": "Napa.svg",
     "Summary": "**JAX Y3 Taureau 2022** is a **medium-bodied red blend** from Napa Valley, offering **supple tannins** and a balance of **raspberry, black plum**, and **spice**. Aged in 35% new French oak, it\u2019s crafted for versatility\u2014ideal for pairing with everything from poultry and pasta to grilled meats. Decant to enhance its rich aromatics.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 70
   },
   {
     "Wine Type": "Red",
@@ -407,7 +431,9 @@
     "Region Image": "Napa.svg",
     "Summary": "**Turley Juvenile Zinfandel 2022** offers juicy red and dark berries, floral notes, and a round texture sourced from young vines (6\u201325 years) across California. Native yeast fermentation and aging in mostly used oak preserve fruit purity and approachability\u2014perfect for grilled meats, pizza, or casual dinners.",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 0,
+    "Bottle_Price": 78
   },
   {
     "Wine Name": "Quilt Cabernet Sauvignon",
@@ -440,6 +466,8 @@
     "Region Image": "Napa.svg",
     "Style": "Structured red with expressive fruit and regional character",
     "DOC": false,
-    "DOCG": false
+    "DOCG": false,
+    "Glass_Price": 20,
+    "Bottle_Price": 0
   }
 ]
