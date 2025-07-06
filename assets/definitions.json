@@ -1,0 +1,47 @@
+[
+    {
+        "Name": "DOC",
+        "Definition": "Denominazione di Origine Controllata – an Italian wine classification that guarantees the wine’s origin and adherence to specific production regulations.",
+        "Image": ""
+    },
+    {
+        "Name": "DOCG",
+        "Definition": "Denominazione di Origine Controllata e Garantita – Italy’s highest classification for wines, ensuring stricter quality controls and tasting evaluations.",
+        "Image": ""
+    },
+    {
+        "Name": "Piemonte",
+        "Definition": "A renowned wine-producing region in northwest Italy, known for Barolo, Barbaresco, and other high-quality wines made from Nebbiolo, Barbera, and Dolcetto.",
+        "Image": ""
+    },
+    {
+        "Name": "Body",
+        "Definition": "Describes the weight and fullness of the wine in your mouth. Light-bodied wines feel more like water; full-bodied wines feel more like milk or cream.<hr /><strong>Light-bodied</strong> wines are refreshing and low in alcohol (e.g., Pinot Grigio, Beaujolais).<hr /><strong>Medium-bodied</strong> wines strike a balance in weight and character (e.g., Merlot, Chardonnay).<hr /><strong>Full-bodied</strong> wines feel rich and substantial, often with higher alcohol (e.g., Cabernet Sauvignon, oaked Chardonnay).",
+        "Image": ""
+    },
+    {
+        "Name": "Tannins",
+        "Definition": "Naturally occurring compounds found in grape skins, seeds, and stems that give red wines their astringency, structure, and aging potential.",
+        "Image": ""
+    },
+    {
+        "Name": "Finish",
+        "Definition": "Refers to the lingering impression or aftertaste a wine leaves after swallowing.<hr />A <strong>short finish</strong> fades quickly, a <strong>medium finish</strong> lingers briefly, a <strong>long finish</strong> denotes complexity and quality, and a <strong>very long finish</strong> indicates exceptional structure and aging potential.",
+        "Image": ""
+    },
+    {
+        "Name": "Acidity",
+        "Definition": "Natural acids in wine contribute to freshness, balance, aging potential, and food pairing compatibility.<hr /><strong>Low acidity</strong> wines are soft, <strong>moderate acidity</strong> wines are balanced, and <strong>high acidity</strong> wines are crisp and vibrant, often with citrusy or tart notes.",
+        "Image": ""
+    },
+    {
+        "Name": "Sweetness",
+        "Definition": "Determined by <strong>residual sugar</strong> after fermentation. <strong>Dry</strong> wines have little to no sugar, <strong>off-dry</strong> wines have a slight sweetness, and <strong>sweet</strong> wines have notable sugar levels, often found in dessert wines like Port or Sauternes.",
+        "Image": ""
+    },
+    {
+        "Name": "Aroma and Flavor",
+        "Definition": "<strong>Fruity</strong>, <strong>floral</strong>, <strong>vegetal</strong>, <strong>spicy</strong>, <strong>earthy</strong>, <strong>mineral</strong>, <strong>oak</strong>, and <strong>nutty</strong> notes are typical. Secondary aromas may include <strong>creamy</strong>, <strong>brioche</strong>, or <strong>lactic</strong> tones, while aging adds <strong>cedar</strong>, <strong>leather</strong>, <strong>tobacco</strong>, or <strong>petrol</strong>.",
+        "Image": ""
+    }
+]
