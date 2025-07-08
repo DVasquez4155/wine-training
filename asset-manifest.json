@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wine-training/static/css/main.befd277d.css",
-    "main.js": "/wine-training/static/js/main.74251132.js",
+    "main.css": "/wine-training/static/css/main.7f22ae8e.css",
+    "main.js": "/wine-training/static/js/main.65f107ce.js",
     "static/js/453.07bb92de.chunk.js": "/wine-training/static/js/453.07bb92de.chunk.js",
     "index.html": "/wine-training/index.html",
-    "main.befd277d.css.map": "/wine-training/static/css/main.befd277d.css.map",
-    "main.74251132.js.map": "/wine-training/static/js/main.74251132.js.map",
+    "main.7f22ae8e.css.map": "/wine-training/static/css/main.7f22ae8e.css.map",
+    "main.65f107ce.js.map": "/wine-training/static/js/main.65f107ce.js.map",
     "453.07bb92de.chunk.js.map": "/wine-training/static/js/453.07bb92de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.befd277d.css",
-    "static/js/main.74251132.js"
+    "static/css/main.7f22ae8e.css",
+    "static/js/main.65f107ce.js"
   ]
 }
