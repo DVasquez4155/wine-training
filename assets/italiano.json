@@ -31,7 +31,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 80
+    "Bottle_Price": 80,
+    "PDF": "CipressiNizzaMicheleChiarloBarberadAsti2019.pdf"
   },
   {
     "Wine Type": "Red",
@@ -65,7 +66,8 @@
     "DOCG": false,
     "DOC": true,
     "Glass_Price": 0,
-    "Bottle_Price": 68
+    "Bottle_Price": 68,
+    "PDF": "PajenaBarberaDAlba2021.pdf"
   },
   {
     "Wine Type": "Red",
@@ -99,7 +101,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 124
+    "Bottle_Price": 124,
+    "PDF": "PrunottoBarbaresco2021.pdf"
   },
   {
     "Wine Type": "Red",
@@ -132,7 +135,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 195
+    "Bottle_Price": 195,
+    "PDF": "PioCesareBarolo2019.pdf"
   },
   {
     "Wine Type": "Red",
@@ -166,7 +170,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 158
+    "Bottle_Price": 158,
+    "PDF": "MassolinoBarolo2019.pdf"
   },
   {
     "Wine Type": "Red",
@@ -200,7 +205,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 89
+    "Bottle_Price": 89,
+    "PDF": "TravagliniGattinara2013.pdf"
   },
   {
     "Wine Type": "Red",
@@ -234,7 +240,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 89
+    "Bottle_Price": 89,
+    "PDF": "PiandelleVigneBrunellodiMontalcino2019.pdf"
   },
   {
     "Wine Type": "Red",
@@ -268,7 +275,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 189
+    "Bottle_Price": 189,
+    "PDF": "LeRagoseAmaronedellaValpolicellaClassico2015.pdf"
   },
   {
     "Wine Type": "Red",
@@ -303,7 +311,8 @@
     "DOC": false,
     "Glass_Price": 0,
     "Bottle_Price": 0,
-    "Half_Bottle_Price": 58
+    "Half_Bottle_Price": 58,
+    "PDF": "PolizianoVinoNobilediMontepulciano2021.pdf"
   },
   {
     "Wine Type": "Red",
@@ -337,7 +346,8 @@
     "Glass_Price": 16,
     "Bottle_Price": 65,
     "DOCG": true,
-    "DOC": false
+    "DOC": false,
+    "PDF": "NozzoleChiantiClassico2021.pdf"
   },
   {
     "Wine Type": "Red",
@@ -371,7 +381,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 85
+    "Bottle_Price": 85,
+    "PDF": "TenutadiArcenoChiantiClassicoRiserva2019.pdf"
   },
   {
     "Wine Type": "Red",
@@ -405,7 +416,8 @@
     "Glass_Price": 18,
     "Bottle_Price": 74,
     "DOCG": false,
-    "DOC": true
+    "DOC": true,
+    "PDF": "TenutaRegalealiLamri2022.pdf"
   },
   {
     "Wine Type": "Red",
@@ -439,7 +451,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 65
+    "Bottle_Price": 65,
+    "PDF": "NinoNegriValtellinaSuperioreDOCGQuadrio2020.pdf"
   },
   {
     "Wine Type": "Red",
@@ -473,7 +486,8 @@
     "DOCG": true,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 80
+    "Bottle_Price": 80,
+    "PDF": "CampagnolaAmaronedellaValpolicellaDOCGClassico.pdf"
   },
   {
     "Wine Type": "Red",
@@ -507,7 +521,8 @@
     "DOCG": false,
     "DOC": false,
     "Glass_Price": 0,
-    "Bottle_Price": 78
+    "Bottle_Price": 78,
+    "PDF": "CantelePrimitivoPugliaIGP.pdf"
   },
   {
     "Wine Type": "Red",
@@ -541,7 +556,8 @@
     "Stella Recommended": "Gnocchi di Patate \u201cNonna Nilla\u201d (Italian sausage and porcini ragu), Rigatoni al Ragu di Maiale, Pollo alla Parmigiana",
     "Glass_Price": 18,
     "DOCG": false,
-    "DOC": false
+    "DOC": false,
+    "PDF": "BarberaVezzi2022.pdf"
   },
   {
     "Wine Type": "Red",
@@ -576,6 +592,7 @@
     "DOCG": false,
     "DOC": false,
     "Glass_Price": 14,
-    "Bottle_Price": 0
+    "Bottle_Price": 0,
+    "PDF": "QuercetoTuscanRed2020.pdf"
   }
 ]

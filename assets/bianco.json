@@ -23,14 +23,15 @@
   "Sweetness": "Dry",
   "Varietal": "Chardonnay",
   "General Recommended Accompanies": "Salmon en croute, trout in dill cream sauce, light summer salad",
-  "Stella Recommended": "",
+  "Stella Recommended": "Gamberi All Aglio, Baked Garlic Butter Lobster Escargot Style, Petrale Sole Piccata",
   "Image": "Chablis Domaine SeguinotBordet 2023.png",
   "Region Image": "Bourgogne.svg",
   "Summary": "**Chablis Domaine Séguinot-Bordet 2023** is a classic, unoaked Chardonnay from the limestone-rich soils of **Chablis, Burgundy**. Aged 9 months on fine lees, it offers **medium body**, a **rounded mouthfeel**, and aromas of **ripe peaches, apricots**, and **verbena**. Its **complex yet vibrant** style pairs beautifully with **salmon**, **trout**, or **light salads**.",
   "DOC": false,
   "DOCG": false,
   "Glass_Price": 0,
-  "Bottle_Price": 80
+  "Bottle_Price": 80,
+  "PDF": "ChablisDomaineSguinotBordet2023.pdf"
 },
 {
   "Wine Type": "White",
@@ -56,14 +57,15 @@
   "Sweetness": "Dry",
   "Varietal": "Chardonnay",
   "General Recommended Accompanies": "Grilled seafood, lemon herb chicken, goat cheese salad",
-  "Stella Recommended": "",
+  "Stella Recommended": "Fiocchi con Peri e Taleggio, Salmon with Prosecco Beurre Blanc, Maiale con Pancetta e Aglio",
   "Image": "VerticalTechSheet_SC_CH_2022_v5_text.png",
   "Region Image": "Sonoma_County.svg",
   "Summary": "**Flowers Sonoma Coast Chardonnay 2022** is a **mineral-driven**, **light-to-medium-bodied** white wine with **coastal freshness** and delicate notes of **white flowers, citrus, herbs**, and **almond skin**. Fermented with native yeast and aged in French oak, it showcases the elegance and savory character of the Sonoma Coast.",
   "DOC": false,
   "DOCG": false,
   "Glass_Price": 0,
-  "Bottle_Price": 105
+  "Bottle_Price": 105,
+  "PDF": "FlowersSonomaCoastChardonnay2022.pdf"
 },
 {
   "Wine Type": "White",
@@ -89,14 +91,15 @@
   "Sweetness": "Dry",
   "Varietal": "Chardonnay",
   "General Recommended Accompanies": "Shellfish, grilled vegetables, citrus-dressed salads",
-  "Stella Recommended": "",
+  "Stella Recommended": "Fiocchi con peri e Taleggio, Pollo alla Calabrese, Piccata di Vitello",
   "Image": "Grgich-Hills-Chardonnay-2022.png",
   "Region Image": "Napa.svg",
   "Summary": "**Grgich Hills Estate Chardonnay 2022** is a **medium-bodied**, vibrant white wine from **Napa Valley**, made with **100% estate-grown Chardonnay**. Unoaked in style, it preserves fresh acidity and features **aromas of white peach and key lime**, a **juicy citrus and tropical fruit palate**, and a **long, flavorful finish**. Aged 10 months in French oak (40% new), it’s a fresh and elegant expression of Napa Chardonnay.",
   "DOC": false,
   "DOCG": false,
   "Glass_Price": 25,
-  "Bottle_Price": 98
+  "Bottle_Price": 98,
+  "PDF": "GrgichHillsEstateChardonnay2022.pdf"
 },
 {
   "Wine Type": "White",
@@ -130,7 +133,8 @@
   "DOCG": false,
   "Glass_Price": 0,
   "Bottle_Price": 0,
-  "Half_Bottle_Price": 42
+  "Half_Bottle_Price": 42,
+  "PDF": "SonomaCutrerSonomaCoastChardonnay2023.pdf"
 },
 {
   "Wine Type": "White",
@@ -157,14 +161,15 @@
   "Sweetness": "Dry",
   "Varietal": "Cortese",
   "General Recommended Accompanies": "Hors d'oeuvres, fish and seafood, pasta with pesto or clams, white meats, vegetable tarts, Asian cuisine, aperitif",
-  "Stella Recommended": "",
+  "Stella Recommended": "Orecchetti Primavera e Speck, Pettorale Sole Piccata, Milanese di Pollo",
   "Image": "bobo_eng.png",
   "Region Image": "Piedmont.svg",
   "Summary": "**Gavi DOCG White Label** is a **light-to-medium-bodied** white wine from **Rovereto di Gavi**, the heart of the Cortese grape. Vinified in steel for freshness, it shows **elegant aromas**, a **delicate, dry palate**, and a **touch of almond** on the finish. A refreshing choice for seafood, light pastas, or as an aperitif.",
   "DOC": false,
   "DOCG": true,
   "Glass_Price": 0,
-  "Bottle_Price": 60
+  "Bottle_Price": 60,
+  "PDF": "GaviDOCGWhiteLabel.pdf"
 },
 {
   "Wine Type": "White",
@@ -184,7 +189,7 @@
   "Vinification": "Cold maceration on the skins after destemming, fermented in stainless-steel tanks using native and cultured yeasts",
   "Maturation": "6 months on lees in stainless steel; 6 months on lees, followed by 2–3 months in bottle",
   "Type of cask": "Stainless steel",
-  "Color": "",
+  "Color": "Petrale Sole Piccata, Milanese di Pollo, Maiale con Pancetta e Aglio",
   "Region": "Friuli-Venezia Giulia, Italy",
   "Appelation": "Collio DOC",
   "Vineyard": "Collio hills (80–250 meters elevation)",
@@ -198,7 +203,8 @@
   "DOC": true,
   "DOCG": false,
   "Glass_Price": 0,
-  "Bottle_Price": 62
+  "Bottle_Price": 62,
+  "PDF": "MarcoFellugaMongrisPinotGrigio2023.pdf"
 },
 {
   "Wine Type": "White",
@@ -224,14 +230,15 @@
   "Sweetness": "Dry",
   "Varietal": "Pinot Gris",
   "General Recommended Accompanies": "Fresh salads, white fish, light poultry dishes, mild cheeses",
-  "Stella Recommended": "",
+  "Stella Recommended": "Gamberi All Aglio, Baked Garlic Butter Lobster Escargot Style, Petrale Sole Piccata",
   "Image": "Tyrus-Evan-Pinot-Gris-2022.png",
   "Region Image": "Willamette.png",
   "Summary": "**Tyrus Evan Pinot Gris 2022** is an **elegant white wine** from **Willamette Valley, Oregon**, made from **100% Pinot Gris**. Bursting with **aromas of yellow pear, peach, honeysuckle, and chamomile**, it offers a **richly textured palate** and a **silken, mouthcoating finish**. Selected and blended by Ken and Carson Wright, this wine beautifully expresses Oregon’s aromatic white wine character.",
   "DOC": false,
   "DOCG": false,
   "Glass_Price" : 0,
-  "Bottle_Price": 68
+  "Bottle_Price": 68,
+  "PDF": "KenWrightTyrusEvanPinotGris2022.pdf"
 },
 {
   "Wine Type": "White",
@@ -257,14 +264,15 @@
   "Sweetness": "Dry",
   "Varietal": "Sauvignon Blanc blend",
   "General Recommended Accompanies": "Shellfish, citrus-marinated poultry, goat cheese, summer salads",
-  "Stella Recommended": "",
+  "Stella Recommended": "Petrale Sole Piccata, Milanese di Pollo, Maiale con Pancetta e Aglio",
   "Image": "SB2023_TechSheet.png",
   "Region Image": "Napa.svg",
   "Summary": "**Cakebread Sauvignon Blanc 2023** is a **light-bodied**, **vibrant white wine** made from **99% Sauvignon Blanc and 1% Semillon**. It opens with **grapefruit, lemon curd, melon, and passionfruit aromas**, followed by **kiwi, citrus zest, mango**, and **pineapple flavors**. Fermented in stainless steel and concrete eggs, then aged 5 months in a mix of **neutral French oak, stainless steel, and concrete**, it delivers a crisp, mineral-driven finish with lively acidity.",
   "DOC": false,
   "DOCG": false,
   "Glass_Price": 0,
-  "Bottle_Price": 79
+  "Bottle_Price": 79,
+  "PDF": "CakebreadSauvignonBlanc2023.pdf"
 },
 {
   "Wine Type": "White",
@@ -284,7 +292,7 @@
   "Vinification": "Stainless steel fermentation for crisp, fruit-forward expression",
   "Maturation": "Stainless steel",
   "Type of cask": "Stainless steel",
-  "Color": "",
+  "Color": "Gamberi All Aglio, Heirloom Burrata, Petrale Sole Piccata",
   "Region": "Napa Valley, California",
   "Vineyard": "Estate vineyards (Napa Green & Fish Friendly Farming certified)",
   "Sweetness": "Dry",
@@ -297,7 +305,8 @@
   "DOC": false,
   "DOCG": false,
   "Glass_Price": 0,
-  "Bottle_Price": 68
+  "Bottle_Price": 68,
+  "PDF": "PEJULegacySauvignonBlanc2023.pdf"
 }
 ,
 {
@@ -325,14 +334,15 @@
   "Sweetness": "Dry",
   "Varietal": "Vermentino Blend",
   "General Recommended Accompanies": "Seafood dishes, antipasti, lobster, shellfish",
-  "Stella Recommended": "",
+  "Stella Recommended": "Gamberi All Aglio, Milanese de Pollo , Petrale Sole Piccata",
   "Image": "Bruni_Plinio-2.png",
   "Region Image": "Tuscany.svg",
   "Summary": "**Plinio Vermentino Maremma Toscana DOC** is a **full-bodied**, **fresh and aromatic** white blend of **85% Vermentino and 15% Viognier**. With notes of **exotic fruit, peach, herbs, and wildflowers**, it finishes **long and mineral**. A perfect Tuscan pairing for shellfish and seafood antipasti.",
   "DOC": true,
   "DOCG": false,
   "Glass_Price": 15,
-  "Bottle_Price": 62
+  "Bottle_Price": 62,
+  "PDF": "PlinioVermentinoMaremmaToscana.pdf"
 },
 {
   "Wine Type": "White",
@@ -365,7 +375,8 @@
   "DOC": false,
   "DOCG": false,
   "Glass_Price": 17,
-  "Bottle_Price": 0
+  "Bottle_Price": 0,
+  "PDF": "ChalkHillSonomaCoastChardonnay2023.pdf"
 },
 {
   "Wine Type": "White",
@@ -398,6 +409,7 @@
   "DOC": false,
   "DOCG": false,
   "Glass_Price": 16,
-  "Bottle_Price": 0
+  "Bottle_Price": 0,
+  "PDF": "DryCreekVineyardDCV3SauvignonBlanc2023.pdf"
 }
 ]
