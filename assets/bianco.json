@@ -1,6 +1,6 @@
 [
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "Chablis Domaine Séguinot-Bordet",
   "Vintage": 2023,
   "Tannin Level": "",
@@ -32,7 +32,7 @@
   "PDF": "ChablisDomaineSguinotBordet2023.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "Flowers Sonoma Coast Chardonnay",
   "Vintage": 2022,
   "Tannin Level": "",
@@ -64,7 +64,7 @@
   "PDF": "FlowersSonomaCoastChardonnay2022.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "Grgich Hills Estate Chardonnay",
   "Vintage": 2022,
   "Tannin Level": "",
@@ -96,7 +96,7 @@
   "PDF": "GrgichHillsEstateChardonnay2022.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "Sonoma-Cutrer Sonoma Coast Chardonnay",
   "Vintage": 2023,
   "Tannin Level": "",
@@ -129,7 +129,7 @@
   "PDF": "SonomaCutrerSonomaCoastChardonnay2023.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "Gavi DOCG White Label",
   "Vintage": "",
   "Tannin Level": "",
@@ -161,7 +161,7 @@
   "PDF": "GaviDOCGWhiteLabel.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "Marco Felluga 'Mongris' Pinot Grigio",
   "Vintage": 2023,
   "Tannin Level": "",
@@ -194,7 +194,7 @@
   "PDF": "MarcoFellugaMongrisPinotGrigio2023.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "Ken Wright \"Tyrus Evan\" Pinot Gris",
   "Vintage": 2022,
   "Tannin Level": "",
@@ -226,7 +226,7 @@
   "PDF": "KenWrightTyrusEvanPinotGris2022.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Blend": "99% Sauvignon Blanc, 1% Semillon",
   "Wine Name": "Cakebread Sauvignon Blanc ",
   "Vintage": 2023,
@@ -260,7 +260,7 @@
   "PDF": "CakebreadSauvignonBlanc2023.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "PEJU Legacy Sauvignon Blanc",
   "Vintage": 2023,
   "Tannin Level": "",
@@ -294,7 +294,7 @@
 }
 ,
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Blend": "85% Vermentino, 15% Viognier",
   "Wine Name": "Plinio Vermentino Maremma Toscana",
   "Vintage": "",
@@ -328,7 +328,7 @@
   "PDF": "PlinioVermentinoMaremmaToscana.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "Chalk Hill Sonoma Coast Chardonnay",
   "Vintage": 2023,
   "Tannin Level": "",
@@ -360,7 +360,7 @@
   "PDF": "ChalkHillSonomaCoastChardonnay2023.pdf"
 },
 {
-  "Wine Type": "White",
+  "Wine Type": "Bianco",
   "Wine Name": "Dry Creek Vineyard DCV3 Sauvignon Blanc",
   "Vintage": 2023,
   "Tannin Level": "",

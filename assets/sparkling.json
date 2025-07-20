@@ -35,7 +35,7 @@
     "Summary": "Ferrari Brut Trento DOC is a metodo classico sparkling wine from Trentino made from 100% Chardonnay. It offers refined aromas of golden apple, white flowers, and subtle yeast. The palate is fresh, clean, and balanced with a fine mousse and a persistent finish."
   },
   {
-    "Wine Type": "Sparkling",
+  "Wine Type": "Sparkling",
     "Blend": "43% Meunier, 29% Chardonnay, 28% Pinot Noir",
     "Wine Name": "Billecart-Salmon Brut Réserve",
     "Vintage": null,
@@ -71,7 +71,7 @@
   }
   ,
   {
-    "Wine Type": "Sparkling",
+  "Wine Type": "Sparkling",
     "Blend": "65% Chardonnay, 20% Chenin Blanc, 15% Pinot Noir",
     "Wine Name": "Faire La Fête Brut Rosé",
     "Vintage": null,
@@ -106,7 +106,7 @@
     "Summary": "Faire La Fête Brut Rosé is a méthode traditionelle sparkling rosé from Limoux, France. Blended from Chardonnay, Chenin Blanc, and Pinot Noir, it features aromas of apple, pear, cherry, and white blossom. On the palate, it is tart and citrusy with a crisp, refreshing finish."
   },
   {
-    "Wine Type": "Sparkling",
+  "Wine Type": "Sparkling",
     "Blend": "40% Pinot Noir, 40% Pinot Meunier, 20% Chardonnay",
     "Wine Name": "Perrier-Jouët Grand Brut NV",
     "Vintage": null,
@@ -142,7 +142,7 @@
   }
   ,
   {
-    "Wine Type": "Sparkling",
+  "Wine Type": "Sparkling",
     "Wine Name": "Vietti Moscato d’Asti",
     "Vintage": null,
     "Blend": "100% Moscato",
@@ -179,7 +179,7 @@
   }
   ,
   {
-    "Wine Type": "Sparkling",
+  "Wine Type": "Sparkling",
     "Blend": "85% Glera, 15% Pinot Grigio and Chardonnay",
     "Wine Name": "Val d’Oca Prosecco Treviso Extra Dry",
     "Vintage": null,
@@ -215,7 +215,7 @@
   }
 ,
   {
-    "Wine Type": "Sparkling",
+  "Wine Type": "Sparkling",
     "Blend": "50% Salamino Lambrusco, 50% Marani Lambrusco",
     "Wine Name": "Quercioli Dolce Reggiano Lambrusco",
     "Vintage": null,
@@ -287,7 +287,7 @@
   }
 ,
   {
-    "Wine Type": "White",
+    "Wine Type": "Sparkling",
     "Wine Name": "Scarpetta Pinot Grigio",
     "Vintage": 2024,
     "Blend": "100% Pinot Grigio",
@@ -324,7 +324,7 @@
   }
   ,
   {
-    "Wine Type": "Sparkling Rosé",
+    "Wine Type": "Sparkling",
     "Blend": "Grenache, Cinsault, Rolle",
     "Wine Name": "Symphonie Rosé",
     "Vintage": 2024,

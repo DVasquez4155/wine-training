@@ -1,7 +1,8 @@
 [
   {
-  "Wine Type": "Red",
+
   "Blend": "",
+  "Wine Type": "Italiano",
   "Wine Name": "Cipressi, Barbera d'Asti",
   "Vintage": "2021",
   "Tannin Level": "Medium",
@@ -40,8 +41,8 @@
 ]
 },
 {
-  "Wine Type": "Red",
   "Blend": "",
+  "Wine Type": "Italiano",
   "Wine Name": "Pajena, Enrico Serafino, Barbera d'Alba",
   "Vintage": "2021",
   "Tannin Level": "Medium",
@@ -81,8 +82,9 @@
   ]
 },
 {
-  "Wine Type": "Red",
+
   "Blend": "",
+  "Wine Type": "Italiano",
   "Wine Name": "Barbaresco, Prunotto",
   "Vintage": "2021",
   "Tannin Level": "High",
@@ -123,8 +125,9 @@
 },
   {
   "Stella Recommended": "Osso Buco di Vitello, Scottadito di Agnello, Spezzatino al Barolo",
-  "Wine Type": "Red",
+
   "Blend": "",
+  "Wine Type": "Italiano",
   "Wine Name": "Barolo, Pio Cesare",
   "Vintage": "2019",
   "Tannin Level": "High",
@@ -165,9 +168,10 @@
   {
     "Stella Recommended": "Osso Buco di Vitello, Scottadito di Agnello, Spezzatino al Barolo",
     "Bottle_Price": 158,
-    "Wine Type": "Red",
+  
     "Blend": "",
-    "Wine Name": "Barolo, Massolino",
+    "Wine Type": "Italiano",
+  "Wine Name": "Barolo, Massolino",
     "Vintage": "2019",
     "Tannin Level": "High",
     "Tannin Characteristics": "Elegant, firm tannins with potential for long aging and structural depth.",
@@ -209,9 +213,10 @@
     "Vegan": true
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "",
-    "Wine Name": "Travaglini Gattinara",
+    "Wine Type": "Italiano",
+  "Wine Name": "Travaglini Gattinara",
     "Vintage": 2013,
     "Tannin Level": "High",
     "Tannin Characteristics": "Firm and high in acidity, with structure from rare alpine soil composition.",
@@ -243,9 +248,10 @@
     "PDF": "TravagliniGattinara2020.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "",
-    "Wine Name": "Pian delle Vigne Brunello di Montalcino",
+    "Wine Type": "Italiano",
+  "Wine Name": "Pian delle Vigne Brunello di Montalcino",
     "Vintage": 2019,
     "Tannin Level": "High",
     "Tannin Characteristics": "Silky and elegant, with freshness and vibrancy that reflect the terroir.",
@@ -277,9 +283,10 @@
     "PDF": "PiandelleVigneBrunellodiMontalcino2019.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "",
-    "Wine Name": "Le Ragose Amarone della Valpolicella Classico",
+    "Wine Type": "Italiano",
+  "Wine Name": "Le Ragose Amarone della Valpolicella Classico",
     "Vintage": 2015,
     "Tannin Level": "High",
     "Tannin Characteristics": "Firm and velvety tannins with depth and structure.",
@@ -311,9 +318,10 @@
     "PDF": "LeRagoseAmaronedellaValpolicellaClassico2015.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "85% Sangiovese Grosso, Canaiolo Nero, Colorino, Merlot",
-    "Wine Name": "Poliziano Vino Nobile di Montepulciano",
+    "Wine Type": "Italiano",
+  "Wine Name": "Poliziano Vino Nobile di Montepulciano",
     "Vintage": 2021,
     "Tannin Level": "Medium-High",
     "Tannin Characteristics": "Mature and balanced tannins, slightly dry, warm and extroverted.",
@@ -346,9 +354,10 @@
     "PDF": "PolizianoVinoNobilediMontepulciano2021.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "100% Sangiovese",
-    "Wine Name": "Nozzole Chianti Classico",
+    "Wine Type": "Italiano",
+  "Wine Name": "Nozzole Chianti Classico",
     "Vintage": 2021,
     "Tannin Level": "Medium",
     "Tannin Characteristics": "Firm and pleasant tannins, richly vinous texture.",
@@ -380,9 +389,10 @@
     "PDF": "NozzoleChiantiClassico2021.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "90% Sangiovese, 10% Cabernet Sauvignon",
-    "Wine Name": "Tenuta di Arceno Chianti Classico Riserva",
+    "Wine Type": "Italiano",
+  "Wine Name": "Tenuta di Arceno Chianti Classico Riserva",
     "Vintage": 2019,
     "Tannin Level": "High",
     "Tannin Characteristics": "Firm and well-integrated tannins that support aging.",
@@ -414,9 +424,10 @@
     "PDF": "TenutadiArcenoChiantiClassicoRiserva2019.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "100% Nero d\u2019Avola",
-    "Wine Name": "Tenuta Regaleali Lam\u00f9ri",
+    "Wine Type": "Italiano",
+  "Wine Name": "Tenuta Regaleali Lam\u00f9ri",
     "Vintage": 2022,
     "Tannin Level": "Medium",
     "Tannin Characteristics": "Soft and elegant tannins with subtle hints of wood.",
@@ -448,9 +459,10 @@
     "PDF": "TenutaRegalealiLamri2022.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "Nebbiolo (Chiavennasca), Merlot",
-    "Wine Name": "Nino Negri Valtellina Superiore DOCG Quadrio",
+    "Wine Type": "Italiano",
+  "Wine Name": "Nino Negri Valtellina Superiore DOCG Quadrio",
     "Vintage": 2020,
     "Tannin Level": "Medium",
     "Tannin Characteristics": "Elegant tannins offering structure without overwhelming dryness.",
@@ -482,9 +494,10 @@
     "PDF": "NinoNegriValtellinaSuperioreDOCGQuadrio2020.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "Corvina Veronese and Corvinone Veronese 75%, Rondinella 25%",
-    "Wine Name": "Campagnola Amarone della Valpolicella DOCG Classico",
+    "Wine Type": "Italiano",
+  "Wine Name": "Campagnola Amarone della Valpolicella DOCG Classico",
     "Vintage": "",
     "Tannin Level": "High",
     "Tannin Characteristics": "Round and rich with well-integrated tannins from long oak aging.",
@@ -516,9 +529,10 @@
     "PDF": "CampagnolaAmaronedellaValpolicellaDOCGClassico.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "100% Primitivo",
-    "Wine Name": "Cantele Primitivo Puglia IGP",
+    "Wine Type": "Italiano",
+  "Wine Name": "Cantele Primitivo Puglia IGP",
     "Vintage": "",
     "Tannin Level": "Medium",
     "Tannin Characteristics": "Moderate tannins with a gentle, smooth finish.",
@@ -550,9 +564,10 @@
     "PDF": "CantelePrimitivoPugliaIGP.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "90% Barbera, 10% Nebbiolo",
-    "Wine Name": "Barbera 'Vezzi'",
+    "Wine Type": "Italiano",
+  "Wine Name": "Barbera 'Vezzi'",
     "Vintage": 2022,
     "Tannin Level": "Medium",
     "Tannin Characteristics": "Moderate tannins from Barbera and structure from Nebbiolo, balanced and food-friendly.",
@@ -583,9 +598,10 @@
     "PDF": "BarberaVezzi2022.pdf"
   },
   {
-    "Wine Type": "Red",
+  
     "Blend": "50% Syrah, 25% Merlot, 25% Sangiovese",
-    "Wine Name": "Querceto Tuscan Red",
+    "Wine Type": "Italiano",
+  "Wine Name": "Querceto Tuscan Red",
     "Vintage": 2020,
     "Tannin Level": "Medium",
     "Tannin Characteristics": "Finely integrated tannins supporting a harmonious palate.",

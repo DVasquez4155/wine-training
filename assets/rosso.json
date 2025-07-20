@@ -1,6 +1,6 @@
 [
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "92.3% Cabernet Sauvignon, 6% Malbec, 2% Cabernet Franc, 1.7% Petit Sirah, 1% Petite Verdot",
     "Wine Name": "Far Niente Cabernet Sauvignon",
     "Vintage": 2022,
@@ -33,7 +33,7 @@
     "Bottle_Price": 255
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "83% Cabernet Sauvignon, 11% Merlot, 5% Petit Verdot, 1% Cabernet Franc",
     "Wine Name": "Grgich Hills Estate Cabernet Sauvignon",
     "Vintage": 2020,
@@ -66,7 +66,7 @@
     "Bottle_Price": 110
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "100% Cabernet Sauvignon",
     "Wine Name": "Caymus Cabernet Sauvignon - 50th Anniversary Edition",
     "Vintage": 2022,
@@ -99,7 +99,7 @@
     "Bottle_Price": 195
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "100% Cabernet Sauvignon",
     "Wine Name": "JUSTIN Cabernet Sauvignon",
     "Vintage": 2021,
@@ -132,7 +132,7 @@
     "Bottle_Price": 78
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "95.2% Cabernet Sauvignon, 2.1% Merlot, 1.4% Cabernet Franc, 0.7% Petit Verdot, 0.6% Malbec",
     "Wine Name": "Silver Oak Alexander Valley Cabernet Sauvignon",
     "Vintage": 2020,
@@ -165,7 +165,7 @@
     "Bottle_Price": 180
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "91% Cabernet Sauvignon, 5% Cabernet Franc, 4% Merlot",
     "Wine Name": "Dancing Bear Ranch Cabernet Sauvignon",
     "Vintage": 2020,
@@ -199,7 +199,7 @@
     "Bottle_Price": 395
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "96% Merlot, 2% Malbec, 2% Cabernet Sauvignon",
     "Wine Name": "Stags’ Leap Napa Valley Merlot",
     "Vintage": 2020,
@@ -232,7 +232,7 @@
     "Bottle_Price": 85
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "100% Pinot Noir",
     "Wine Name": "Flowers Sonoma Coast Pinot Noir",
     "Vintage": 2023,
@@ -265,7 +265,7 @@
     "Bottle_Price": 112
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "100% Pinot Noir",
     "Wine Name": "Goldeneye Anderson Valley Pinot Noir",
     "Vintage": 2022,
@@ -299,7 +299,7 @@
     "Half_Bottle_Price": 62
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "100% Pinot Noir",
     "Wine Name": "Canary Hill Vineyard Pinot Noir",
     "Vintage": 2022,
@@ -333,7 +333,7 @@
     "Bottle_Price": 148
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "100% Pinot Noir",
     "Wine Name": "Langhart & Hill 2022 Russian River Valley Pinot Noir",
     "Vintage": 2022,
@@ -366,7 +366,7 @@
     "Bottle_Price": 88
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Blend": "65% Cabernet Sauvignon, 30% Merlot, 5% Cabernet Franc",
     "Wine Name": "JAX Y3 Taureau",
     "Vintage": 2022,
@@ -399,7 +399,7 @@
     "Bottle_Price": 70
   },
   {
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Wine Name": "Turley Juvenile Zinfandel",
     "Vintage": 2022,
     "PDF": "TurleyJuvenileZinfandel2022.pdf",
@@ -434,7 +434,7 @@
     "Wine Name": "Quilt Cabernet Sauvignon",
     "Vintage": 2022,
     "PDF": "QuiltCabernetSauvignon2022.pdf",
-    "Wine Type": "Red",
+    "Wine Type": "Rosso",
     "Varietal": "Cabernet Sauvignon",
     "Region": "Napa",
     "Flavor": "Dark berries, chocolate cherry, plum, blackberry pie, and toffee",
