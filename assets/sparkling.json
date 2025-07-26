@@ -37,7 +37,7 @@
   {
   "Wine Type": "Sparkling",
     "Blend": "43% Meunier, 29% Chardonnay, 28% Pinot Noir",
-    "Wine Name": "Billecart-Salmon Brut Réserve",
+    "Wine Name": "Billecart-Salmon Brut Reserve",
     "Vintage": null,
     "Tannin Level": "Low",
     "Tannin Characteristics": "Delicate and balanced, with subtle structure and a creamy mousse.",
@@ -67,13 +67,13 @@
     "Glass_Price": 0,
     "Bottle_Price": 0,
     "Half_Bottle_Price": 72,
-    "Summary": "Billecart-Salmon Brut Réserve is a traditional Champagne blend made with Pinot Meunier, Chardonnay, and Pinot Noir. This Extra Brut sparkling wine offers delicate texture, precise fruit expression, and a long, mineral-driven finish."
+    "Summary": "Billecart-Salmon Brut Reserve is a traditional Champagne blend made with Pinot Meunier, Chardonnay, and Pinot Noir. This Extra Brut sparkling wine offers delicate texture, precise fruit expression, and a long, mineral-driven finish."
   }
   ,
   {
-  "Wine Type": "Sparkling",
+  "Wine Type": "Rose",
     "Blend": "65% Chardonnay, 20% Chenin Blanc, 15% Pinot Noir",
-    "Wine Name": "Faire La Fête Brut Rosé",
+    "Wine Name": "Faire La Fête Brut Rose",
     "Vintage": null,
     "Tannin Level": "Low",
     "Tannin Characteristics": "Delicate and subtle, allowing fruit and acidity to shine.",
@@ -83,18 +83,18 @@
     "Acidity": "High",
     "Aroma": "Golden apple, Bosc pear, red cherry, and white blossom.",
     "Flavor": "Green fruit, lemon citrus peel, and a refreshing tartness.",
-    "Style": "Méthode Traditionelle Rosé Sparkling Wine",
+    "Style": "Methode Traditionelle Rose Sparkling Wine",
     "Producer": "Faire La Fête",
-    "Vinification": "Méthode traditionelle; bottle-aged sur-lie for 15–18 months. Final dosage: 7g/L.",
+    "Vinification": "Methode traditionelle; bottle-aged sur-lie for 15–18 months. Final dosage: 7g/L.",
     "Maturation": "15–18 months on lees.",
     "Aging": "",
     "Type of cask": "",
     "Serving Temperature": "6–8°C",
     "Color": "Pale pink with fine bubbles.",
     "Region": "Limoux",
-    "Appelation": "Crémant de Limoux AOC",
+    "Appelation": "Cremant de Limoux AOC",
     "Sweetness": "Brut",
-    "General Recommended Accompanies": "Great for relaxed evenings, seafood, and sautéed or fried foods.",
+    "General Recommended Accompanies": "Great for relaxed evenings, seafood, and sauteed or fried foods.",
     "Stella Recommended": "",
     "Image": "FaireLaFeteBrutRose.png",
     "PDF": "FaireLaFeteBrutRose.pdf",
@@ -103,7 +103,7 @@
     "Glass_Price": 18,
     "Bottle_Price": 90,
     "Half_Bottle_Price": 0,
-    "Summary": "Faire La Fête Brut Rosé is a méthode traditionelle sparkling rosé from Limoux, France. Blended from Chardonnay, Chenin Blanc, and Pinot Noir, it features aromas of apple, pear, cherry, and white blossom. On the palate, it is tart and citrusy with a crisp, refreshing finish."
+    "Summary": "Faire La Fête Brut Rose is a methode traditionelle Rose from Limoux, France. Blended from Chardonnay, Chenin Blanc, and Pinot Noir, it features aromas of apple, pear, cherry, and white blossom. On the palate, it is tart and citrusy with a crisp, refreshing finish."
   },
   {
   "Wine Type": "Sparkling",
@@ -138,7 +138,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 148,
     "Half_Bottle_Price": 0,
-    "Summary": "Perrier-Jouët Grand Brut NV is a refined Champagne from the heart of the Champagne region. Composed of Pinot Noir, Pinot Meunier, and Chardonnay, this brut cuvée delivers tropical fruit, citrus, spice, and yeast aromas, with a lingering and balanced palate."
+    "Summary": "Perrier-Jouët Grand Brut NV is a refined Champagne from the heart of the Champagne region. Composed of Pinot Noir, Pinot Meunier, and Chardonnay, this brut cuvee delivers tropical fruit, citrus, spice, and yeast aromas, with a lingering and balanced palate."
   }
   ,
   {
@@ -215,7 +215,7 @@
   }
 ,
   {
-  "Wine Type": "Sparkling",
+  "Wine Type": "Rose",
     "Blend": "50% Salamino Lambrusco, 50% Marani Lambrusco",
     "Wine Name": "Quercioli Dolce Reggiano Lambrusco",
     "Vintage": null,
@@ -251,9 +251,9 @@
   }
   ,
   {
-    "Wine Type": "Sparkling Rosé",
+    "Wine Type": "Rose",
     "Blend": "67% Grenache, 21% Mourvèdre, 9% Counoise, 3% Vermentino",
-    "Wine Name": "Patelin de Tablas Rosé",
+    "Wine Name": "Patelin de Tablas Rose",
     "Vintage": 2022,
     "Tannin Level": "Low",
     "Tannin Characteristics": "Very delicate, no astringency, allowing freshness and fruit to dominate.",
@@ -263,7 +263,7 @@
     "Acidity": "High",
     "Aroma": "Mandarin orange, cherry blossom, wild strawberry, and chalky minerals.",
     "Flavor": "Yellow plum, nectarine, salty minerality, and citrus.",
-    "Style": "Rosé blend in the tradition of Provence",
+    "Style": "Rose blend in the tradition of Provence",
     "Producer": "Tablas Creek Vineyard",
     "Vinification": "80% direct-press into stainless steel tanks, 20% cold-soaked for additional color and structure. Fermented with native yeasts.",
     "Maturation": "Blended and cold-stabilized, bottled in January 2022.",
@@ -283,7 +283,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 0,
     "Half_Bottle_Price": 0,
-    "Summary": "Patelin de Tablas Rosé is a Provence-style blend from Paso Robles made with Grenache, Mourvèdre, Counoise, and Vermentino. It features aromas of citrus and cherry blossom with flavors of stone fruits, salty minerality, and bright acidity."
+    "Summary": "Patelin de Tablas Rose is a Provence-style blend from Paso Robles made with Grenache, Mourvèdre, Counoise, and Vermentino. It features aromas of citrus and cherry blossom with flavors of stone fruits, salty minerality, and bright acidity."
   }
 ,
   {
@@ -324,9 +324,9 @@
   }
   ,
   {
-    "Wine Type": "Sparkling",
+    "Wine Type": "Rose",
     "Blend": "Grenache, Cinsault, Rolle",
-    "Wine Name": "Symphonie Rosé",
+    "Wine Name": "Symphonie Rose",
     "Vintage": 2024,
     "Tannin Level": "Low",
     "Tannin Characteristics": "Very subtle, allowing fruit and freshness to take center stage.",
@@ -336,7 +336,7 @@
     "Acidity": "Medium-High",
     "Aroma": "Floral, white peach, grapefruit peel.",
     "Flavor": "Elegant freshness with citrus zest and aromatic fruit.",
-    "Style": "Dry Organic Rosé Sparkling Wine",
+    "Style": "Dry Organic Rose Sparkling Wine",
     "Producer": "Château Sainte Marguerite",
     "Vinification": "Cold skin maceration, temperature-controlled fermentation, aged on lees.",
     "Maturation": "",
@@ -356,6 +356,6 @@
     "Glass_Price": 0,
     "Bottle_Price": 0,
     "Half_Bottle_Price": 0,
-    "Summary": "Symphonie Rosé 2024 is a certified organic and vegan sparkling rosé from Provence. With floral, peach, and citrus aromas and a zesty grapefruit finish, it's a delicately refreshing wine ideal for seafood and Mediterranean tapas."
+    "Summary": "Symphonie Rose 2024 is a certified organic and vegan Rose from Provence. With floral, peach, and citrus aromas and a zesty grapefruit finish, it's a delicately refreshing wine ideal for seafood and Mediterranean tapas."
   }
 ]
