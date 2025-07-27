@@ -198,8 +198,6 @@
     "Glass_Price": 0,
     "PDF": "MassolinoBarolo2019.pdf",
     "Top Icons": [
-      "Vegan",
-      "Sustainable",
       "Fruity/Berry",
       "Floral",
       "Spicy",
@@ -625,7 +623,7 @@
     "Glass_Price": 18,
     "Bottle_Price": 0,
     "PDF": "BarberaVezzi2022.pdf",
-    "Top Icons": ["Fruity/Berry", "Balanced", "Sustainable"],
+    "Top Icons": ["Fruity/Berry", "Balanced"],
     "Sustainability": "Sustainable farming practices are used in the vineyard.",
     "Vegan": false
   },
