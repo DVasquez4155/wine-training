@@ -36,7 +36,7 @@
   "Spicy",
   "Silky",
   "Balanced",
-  "Bold/Full-Bodied"
+  "Bold"
 ]
 },
 {
@@ -119,7 +119,7 @@
     "Spicy",
     "Balanced",
     "Silky",
-    "Bold/Full-Bodied"
+    "Bold"
   ]
 },
   {
@@ -158,7 +158,7 @@
   "PDF": "PioCesareBarolo2019.pdf",
   "Top Icons": [
     "Balanced",
-    "Bold/Full-Bodied",
+    "Bold",
     "Aged",
     "Silky",
     "Fruity/Berry"
@@ -205,7 +205,7 @@
       "Spicy",
       "Balanced",
       "Aged",
-      "Bold/Full-Bodied"
+      "Bold"
     ],
     "Sustainability": "Sustainable viticulture practices, including organic fertilization and minimal intervention in the vineyard.",
     "Vegan": true
@@ -289,7 +289,7 @@
   {
     "Wine Type": "Italiano",
     "Blend": "Primarily Sangiovese with small percentages of Cabernet Sauvignon and Cabernet Franc",
-    "Wine Name": "Tignanello",
+    "Wine Name": "Antinori Tignanello",
     "Producer": "Antinori",
     "Vintage": 2021,
     "Tannin Level": "High",
@@ -310,7 +310,7 @@
     "Appellation": "Toscana IGT",
     "Vineyard": "Tignanello estate, 350–400m elevation, limestone-rich soils, southwest exposure",
     "Sweetness": "Dry",
-    "Varietal": "Sangiovese, Cabernet Sauvignon, Cabernet Franc",
+    "Varietal": "Sangiovese",
     "General Recommended Accompanies": "Ideal with Bistecca alla Fiorentina, wild boar ragù, aged cheeses, or braised short ribs.",
     "Stella Recommended": "Spezzatino, Filetto, Spaghetti Bolognese",
     "Image": "Tignanello2021.png",
@@ -320,7 +320,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 189,
     "PDF": "Tignanello2021.pdf",
-    "Top Icons": ["Fruity/Berry", "Spice", "Oaky/Vanilla", "Chocolate", "Bold/Full-Bodied", "Complex"],
+    "Top Icons": ["Fruity/Berry", "Spice", "Oaky/Vanilla", "Chocolate", "Bold", "Complex"],
     "Sustainability": "",
     "Vegan": false
   },
@@ -348,7 +348,7 @@
     "Appellation": "Vino Nobile di Montepulciano DOCG",
     "Vineyard": "Estate vineyards in Montepulciano at 300–420m elevation; clay and silt soils with embedded fossils",
     "Sweetness": "Dry",
-    "Varietal": "Sangiovese, Colorino, Canaiolo, Merlot",
+    "Varietal": "Sangiovese",
     "General Recommended Accompanies": "Pairs well with roasted pork, lamb ragu, grilled meats, and Tuscan pecorino.",
     "Stella Recommended": "Filetto, Rigatoni al Ragu Maiale with pancetta and aglio",
     "Image": "PolizianoVinoNobilediMontepulciano2021.png",
@@ -366,44 +366,6 @@
   {
     "Wine Type": "Italiano",
     "Blend": "",
-    "Wine Name": "Chianti Classico Riserva",
-    "Producer": "Nozzole",
-    "Vintage": 2021,
-    "Tannin Level": "Medium",
-    "Tannin Characteristics": "Firm yet elegant tannins from skin maceration and oak aging.",
-    "Body": "Medium to Full",
-    "Body Characteristics": "Structured and vibrant with earthy tones and red fruit richness.",
-    "Finish": "Medium",
-    "Finish Characteristics": "Bright, with fresh acidity and lingering cherry and spice notes.",
-    "Acidity": "Medium",
-    "Aroma": "Red berry and cherry aromas with earthy under-notes.",
-    "Flavor": "Cherry, red berries, and earth with freshness and depth.",
-    "Style": "Dry Red Wine",
-    "Vinification": "Hand harvested, destemmed, crushed, fermented on skins in stainless steel. Underwent malolactic fermentation and oak aging.",
-    "Maturation": "24 months in oak barrels, followed by 3 months in bottle.",
-    "Type of cask": "Oak barrels (unspecified size)",
-    "Color": "Ruby red",
-    "Region": "Tuscany",
-    "Appellation": "Chianti Classico Riserva DOCG",
-    "Vineyard": "Nozzole estate near Greve in Chianti, elevation 984 ft",
-    "Sweetness": "Dry",
-    "Varietal": "Sangiovese",
-    "General Recommended Accompanies": "Excellent with roast meats, game, mushroom pasta, and aged pecorino.",
-    "Stella Recommended": "Lasagna con Filetto, Penne All Arrabbiata, Filetto",
-    "Image": "NozzoleChiantiClassico2021.png",
-    "Summary": "**Nozzole’s Chianti Classico Riserva 2021** is a **classic 100% Sangiovese** from estate vineyards near Greve in Chianti. With **vibrant acidity, firm tannins, and red berry character**, it reflects the **Folonari family’s long tradition** of crafting age-worthy Tuscan reds.",
-    "DOCG": true,
-    "DOC": false,
-    "Glass_Price": 16,
-    "Bottle_Price": 65,
-    "PDF": "NozzoleChiantiClassico2021.pdf",
-    "Top Icons": ["Fruity/Berry", "Spice", "Aged", "Balanced", "Complex"],
-    "Sustainability": "",
-    "Vegan": false
-  },
-  {
-    "Wine Type": "Italiano",
-    "Blend": "100% Sangiovese",
     "Wine Name": "Nozzole Chianti Classico",
     "Producer": "Nozzole",
     "Vintage": 2021,
@@ -425,7 +387,7 @@
     "Appellation": "Chianti Classico Riserva DOCG",
     "Vineyard": "Nozzole estate near Greve in Chianti, elevation 984 ft",
     "Sweetness": "Dry",
-    "Varietal": "Sangiovese",
+    "Varietal": "Chianti Classico",
     "General Recommended Accompanies": "Excellent with roast meats, game, mushroom pasta, and aged pecorino.",
     "Stella Recommended": "Osso Buco, Lasagna Filetto, Spezzatino",
     "Image": "NozzoleChiantiClassico2021.png",
@@ -463,7 +425,7 @@
     "Appellation": "Chianti Classico Riserva DOCG",
     "Vineyard": "Estate vineyards in San Gusmè, Castelnuovo Berardenga, Siena",
     "Sweetness": "Dry",
-    "Varietal": "Sangiovese, Cabernet Sauvignon",
+    "Varietal": "Chianti Classico",
     "General Recommended Accompanies": "Perfect with grilled meats, Tuscan stews, aged cheese, or rosemary pork.",
     "Stella Recommended": "Scottadito, Spezzatino, Gnocchi Nonna Nilla with gorgonzola sauce",
     "Image": "TenutadiArcenoChiantiClassicoRiserva2019.png",
@@ -539,7 +501,7 @@
     "Appellation": "Valtellina Superiore DOCG",
     "Vineyard": "Terraced vineyards facing S, SE, SW at 900–1600 ft with shallow sandy loam soil.",
     "Sweetness": "Dry",
-    "Varietal": "Nebbiolo, Merlot",
+    "Varietal": "Nebbiolo",
     "General Recommended Accompanies": "Game, roasted red meats, aged cheeses.",
     "Stella Recommended": "Milanese do Pollo, Maiale con Pancetta e Aglio, Spaghetti Bolognese ",
     "Image": "NinoNegriValtellinaSuperioreDOCGQuadrio2020.png",
@@ -577,7 +539,7 @@
     "Appellation": "Amarone della Valpolicella DOCG Classico",
     "Vineyard": "Hills of Marano, Fumane, and San Pietro in Cariano in Valpolicella Classico zone",
     "Sweetness": "Dry",
-    "Varietal": "Corvina, Corvinone, Rondinella, Molinara",
+    "Varietal": "Amarone",
     "General Recommended Accompanies": "Roasted meats, aged cheeses, game, or as a meditation wine.",
     "Stella Recommended": "Osso Buco, Scottadito, Gnocchi with Gorgonzola Sauce",
     "Image": "CampagnolaAmaronedellaValpolicellaDOCGClassico.png",
@@ -587,7 +549,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 80,
     "PDF": "CampagnolaAmaronedellaValpolicellaDOCGClassico.pdf",
-    "Top Icons": ["Dried Fruit", "Spiced", "Velvety", "Full-Bodied"],
+    "Top Icons": ["Dried Fruit", "Spiced", "Velvety"],
     "Sustainability": "",
     "Vegan": false
   },
@@ -625,7 +587,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 78,
     "PDF": "CantelePrimitivoPugliaIGP.pdf",
-    "Top Icons": ["Fruity/Berry", "Spiced", "Balanced", "Medium-Bodied"],
+    "Top Icons": ["Fruity/Berry", "Spiced", "Balanced"],
     "Sustainability": "Sustainable",
     "Vegan": false
   },
@@ -691,7 +653,7 @@
     "Appellation": "Toscana IGT",
     "Vineyard": "Valdarno hills and Chianti region; Merlot & Syrah from marlstone-rich soil, Sangiovese from high elevation vineyards.",
     "Sweetness": "Dry",
-    "Varietal": "Syrah, Merlot, Sangiovese",
+    "Varietal": "Red Blend",
     "General Recommended Accompanies": "Pastas, meat dishes, charcuterie, pizza, and blue cheese.",
     "Stella Recommended": "",
     "Image": "QuercetoTuscanRed2020.png",
