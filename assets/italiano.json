@@ -34,7 +34,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 80,
     "PDF": "CipressiNizzaMicheleChiarloBarberadAsti2019.pdf",
-    "Top Icons": ["Fruity/Berry", "Floral", "Spice", "Balanced", "Oaky/Vanilla", "Sustainable"],
+    "Top Icons": ["Fruity/Berry", "Floral", "Spice", "Balanced", "Oaky/Vanilla"],
     "Sustainability": "Manual harvest and yield control; vineyard cultivated with Guyot and low spurred cordon, aiming for low yield and optimal ripeness",
     "Vegan": false
   },
@@ -73,7 +73,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 68,
     "PDF": "PajenaBarberaDAlba2021.pdf",
-    "Top Icons": ["Fruity/Berry", "Floral", "Spice", "Silky", "Balanced", "Sustainable"],
+    "Top Icons": ["Fruity/Berry", "Floral", "Spice", "Silky", "Balanced"],
     "Sustainability": "Sustainably farmed vineyards; grapes hand-harvested and chilled with carbonic snow to reduce oxidation and sulfur use",
     "Vegan": false
   },
@@ -190,7 +190,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 158,
     "PDF": "MassolinoBarolo2019.pdf",
-    "Top Icons": ["Aged", "Complex", "Spice", "Floral", "Bold", "Vegan"],
+    "Top Icons": ["Aged", "Complex", "Spice", "Floral", "Bold"],
     "Sustainability": "Sustainable and vegan practicing vineyards with traditional vinification",
     "Vegan": true
   },
@@ -288,7 +288,7 @@
     "Aroma": "Ripe plum, blackberry, candied orange peel, dark chocolate, caramel, licorice, sweet tobacco",
     "Flavor": "Intense dark fruit, orange peel, chocolate, licorice, and sweet tobacco",
     "Style": "Dry Red Wine",
-    "Vinification": "Fermented in conical tanks with extended skin maceration; malolactic fermentation and aging in French and Hungarian oak (mostly new) for 15 months, then bottle-aged for 12 more",
+    "Vinification": "Fermented in conical tanks with extended skin maceration.",
     "Maturation": "15 months in predominantly new French and Hungarian oak, then 12 months in bottle",
     "Type of cask": "Predominantly new French and Hungarian oak barrels",
     "Color": "Ruby red with intense purple hues",
@@ -327,7 +327,7 @@
     "Aroma": "Not explicitly listed; expected red berries, spice, floral notes from Prugnolo Gentile",
     "Flavor": "Elegant with depth, color, and complexity; likely red fruit, spice, and oak",
     "Style": "Dry Red Wine",
-    "Vinification": "Fermented in 6,000–8,000L French oak vats using vineyard-selected yeast; optical grape sorting",
+    "Vinification": "Fermented in French oak vats using vineyard-selected yeast; optical grape sorting",
     "Maturation": "Aged 18–20 months: 20% in barriques, 40% in tonneaux, 40% in large casks (all French oak), then 6–8 months in bottle",
     "Type of cask": "French oak (barriques, tonneaux, and large casks)",
     "Color": "Not specified; typically deep ruby with garnet highlights",
@@ -346,7 +346,7 @@
     "Glass_Price": 0,
     "Half_Bottle_Price": 58,
     "PDF": "PolizianoVinoNobilediMontepulciano2021.pdf",
-    "Top Icons": ["Fruity/Berry", "Spice", "Oaky/Vanilla", "Balanced", "Complex", "Sustainable"],
+    "Top Icons": ["Fruity/Berry", "Spice", "Oaky/Vanilla", "Balanced", "Complex"],
     "Sustainability": "Sustainably farmed; optical sorting and French oak aging",
     "Vegan": true
   },
@@ -431,7 +431,7 @@
     "Glass_Price": 18,
     "Bottle_Price": 74,
     "PDF": "TenutadiArcenoChiantiClassicoRiserva2019.pdf",
-    "Top Icons": ["Fruity/Berry", "Spice", "Balanced", "Silky", "Complex", "Sustainable"],
+    "Top Icons": ["Fruity/Berry", "Spice", "Balanced", "Silky", "Complex"],
     "Sustainability": "Estate-grown with attention to vineyard expression and environmental harmony",
     "Vegan": false
   },
@@ -509,7 +509,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 65,
     "PDF": "NinoNegriValtellinaSuperioreDOCGQuadrio2020.pdf",
-    "Top Icons": ["Fruity/Berry", "Floral", "Balanced", "Aged", "Silky", "Sustainable"],
+    "Top Icons": ["Fruity/Berry", "Floral", "Balanced", "Aged", "Silky"],
     "Sustainability": "Terraced vineyards managed with low-yield, high-elevation practices for optimal ripeness and purity",
     "Vegan": false
   },
@@ -587,7 +587,7 @@
     "Glass_Price": 0,
     "Bottle_Price": 78,
     "PDF": "CantelePrimitivoPugliaIGP.pdf",
-    "Top Icons": ["Fruity/Berry", "Spice", "Oaky/Vanilla", "Balanced", "Sustainable"],
+    "Top Icons": ["Fruity/Berry", "Spice", "Oaky/Vanilla", "Balanced"],
     "Sustainability": "Sustainably farmed vineyards in Salento with traditional head-trained vines",
     "Vegan": false
   },
@@ -626,7 +626,7 @@
     "Glass_Price": 18,
     "Bottle_Price": 0,
     "PDF": "BarberaVezzi2022.pdf",
-    "Top Icons": ["Fruity/Berry", "Floral", "Balanced", "Sustainable"],
+    "Top Icons": ["Fruity/Berry", "Floral", "Balanced"],
     "Sustainability": "Sustainably farmed vineyards in Langhe and Monferrato; no oak, minimal intervention",
     "Vegan": false
   }

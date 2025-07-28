@@ -149,7 +149,7 @@
   "DOCG": false,
   "DOC": false,
   "Glass_Price": 0,
-  "Bottle_Price": 42,
+  "Half_Bottle_Price": 42,
   "PDF": "SonomaCutrerSonomaCoastChardonnay2023.pdf",
   "Top Icons": ["Citrus", "Stone Fruit", "Minerality", "Balanced", "Oaky/Vanilla", "Floral"],
   "Sustainability": "",
