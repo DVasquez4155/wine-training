@@ -386,7 +386,8 @@
   "PDF": "PlinioVermentinoMaremmaToscana.pdf",
   "Top Icons": ["Floral", "Stone Fruit", "Herbal", "Minerality", "Balanced"],
   "Sustainability": "",
-  "Vegan": true
+  "Vegan": true,
+  "Top Bottle": true
 },
 {
   "Wine Type": "Bianco",
@@ -425,7 +426,8 @@
   "PDF": "ChalkHillSonomaCoastChardonnay2023.pdf",
   "Top Icons": ["Stone Fruit", "Oaky/Vanilla", "Floral", "Balanced", "Complex"],
   "Sustainability": "",
-  "Vegan": false
+  "Vegan": false,
+  "Top Glass": true
 },
 {
   "Wine Type": "Bianco",
@@ -464,6 +466,7 @@
   "PDF": "DryCreekVineyardDCV3SauvignonBlanc2023.pdf",
   "Top Icons": ["Citrus", "Tropical Fruit", "Floral", "Herbal", "Balanced"],
   "Sustainability": "",
-  "Vegan": false
+  "Vegan": false,
+  "Top Glass": true
 }
 ]

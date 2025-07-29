@@ -394,7 +394,8 @@
       "Complex"
     ],
     "Sustainability": "",
-    "Vegan": false
+    "Vegan": false,
+    "Top Glass": true
   },
   {
     "Wine Type": "Italiano",
@@ -433,7 +434,8 @@
     "PDF": "TenutadiArcenoChiantiClassicoRiserva2019.pdf",
     "Top Icons": ["Fruity/Berry", "Spice", "Balanced", "Silky", "Complex"],
     "Sustainability": "Estate-grown with attention to vineyard expression and environmental harmony",
-    "Vegan": false
+    "Vegan": false,
+    "Top Bottle": true
   },
   {
     "Wine Type": "Italiano",

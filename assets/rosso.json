@@ -78,6 +78,45 @@
   {
     "Wine Type": "Rosso",
     "Blend": "",
+    "Wine Name": "Ken Wright Willamette Valley Pinot Noir",
+    "Producer": "Ken Wright Cellars",
+    "Vintage": 2023,
+    "Tannin Level": "Medium",
+    "Tannin Characteristics": "Balanced and energetic, with savory grip and smooth integration from neutral oak",
+    "Body": "Medium",
+    "Body Characteristics": "Plush texture with vibrant, energetic structure and balanced acidity",
+    "Finish": "Long",
+    "Finish Characteristics": "Energetic and persistent with savory and spicy notes",
+    "Acidity": "Medium",
+    "Aroma": "Fresh red and blue fruits with notes of leather, cola, and clove",
+    "Flavor": "Red and blue fruits, savory leather, cola, clove spice",
+    "Style": "Dry Red Wine",
+    "Vinification": "Fermented and matured with minimal intervention to preserve fruit character and texture",
+    "Maturation": "Matured in stainless steel and neutral French oak barrels",
+    "Type of cask": "Neutral French oak and stainless steel",
+    "Color": "Medium ruby red",
+    "Region": "Willamette Valley",
+    "Vineyard": "Multiple sub-AVAs in Northern Willamette Valley including Willakenzie, Melbourne & Wellsdale, Nekia & Jory soils",
+    "Sweetness": "Dry",
+    "Varietal": "Pinot Noir",
+    "General Recommended Accompanies": "Grilled salmon, duck breast, mushroom risotto, herb-roasted chicken",
+    "Stella Recommended": "",
+    "Image": "KenWrightWillametteValleyPinotNoir2023.png",
+    "Summary": "**Ken Wright Cellars' 2023 Pinot Noir** captures the elegance of the Northern Willamette Valley. Bursting with **fresh red and blue fruits**, the wine is balanced by **savory notes of cola and leather**, supported by an **energetic finish** and matured in neutral French oak and stainless steel. Certified organic and sourced from distinct sub-AVAs, it's a compelling showcase of terroir.",
+    "Unique Summary": "A vibrant Pinot Noir from certified organic vineyards, aged in neutral oak and steel to highlight Willamette Valley purity.",
+    "DOCG": false,
+    "DOC": false,
+    "Glass_Price": 19,
+    "Bottle_Price": 0,
+    "PDF": "KenWrightWillametteValleyPinotNoir2023.pdf",
+    "Top Icons": ["Fruity/Berry", "Spice", "Balanced", "Silky"],
+    "Sustainability": "Certified Organic farming; focus on high-level evidence-supported nutritional farming",
+    "Vegan": false,
+    "Top Glass": true
+  },
+  {
+    "Wine Type": "Rosso",
+    "Blend": "",
     "Wine Name": "Caymus Cabernet Sauvignon 50th Anniversary Edition",
     "Producer": "Caymus Vineyards",
     "Vintage": 2022,
@@ -151,7 +190,8 @@
     "PDF": "JUSTINCabernetSauvignon2021.pdf",
     "Top Icons": ["Fruity/Berry", "Oaky/Vanilla", "Spice", "Herbal", "Chocolate", "Balanced"],
     "Sustainability": "",
-    "Vegan": false
+    "Vegan": false,
+    "Top Bottle": true
   },
   {
     "Wine Type": "Rosso",
@@ -307,7 +347,8 @@
     "PDF": "FlowersSonomaCoastPinotNoir2023.pdf",
     "Top Icons": ["Fruity/Berry", "Floral", "Herbal", "Minerality", "Silky", "Balanced"],
     "Sustainability": "Committed to organic farming and minimal intervention winemaking practices.",
-    "Vegan": false
+    "Vegan": false,
+    "Top Bottle": true
   },
   {
     "Wine Type": "Rosso",
@@ -352,7 +393,7 @@
   {
     "Wine Type": "Rosso",
     "Blend": "",
-    "Wine Name": "Canary Hill Vineyard Pinot Noir",
+    "Wine Name": "Ken Wright Canary Hill Vineyard Pinot Noir",
     "Producer": "Ken Wright Cellars",
     "Vintage": 2022,
     "Tannin Level": "Medium",
@@ -541,6 +582,7 @@
     "PDF": "QuiltCabernetSauvignon2022.pdf",
     "Top Icons": ["Fruity/Berry", "Chocolate", "Oaky/Vanilla", "Bold", "Complex", "Silky"],
     "Sustainability": "",
-    "Vegan": false
+    "Vegan": false,
+  "Top Glass": true
   }
 ]
