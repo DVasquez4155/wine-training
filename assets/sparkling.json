@@ -2,7 +2,7 @@
   {
   "Wine Type": "Sparkling",
   "Blend": "",
-  "Wine Name": "Ferrari Brut",
+  "Wine Name": "Ferrari Metodo Classico Brut",
   "Producer": "Ferrari Trento",
   "Vintage": null,
   "Tannin Level": "",
@@ -94,7 +94,7 @@
 {
   "Wine Type": "Sparkling",
   "Blend": "40% Pinot Noir, 40% Pinot Meunier, 20% Chardonnay",
-  "Wine Name": "Perrier-Jouët Grand Brut",
+  "Wine Name": "Perrier-Jouët Grand Brut Champagne",
   "Producer": "Perrier-Jouët",
   "Vintage": null,
   "Tannin Level": "",
@@ -140,7 +140,7 @@
 {
   "Wine Type": "Sparkling",
   "Blend": "",
-  "Wine Name": "Vietti Moscato d’Asti",
+  "Wine Name": "Cascinetta Vietti Moscato d’Asti",
   "Producer": "Vietti",
   "Vintage": null,
   "Tannin Level": "",
@@ -185,7 +185,7 @@
 {
   "Wine Type": "Sparkling",
   "Blend": "85% Glera, 15% Pinot Grigio & Chardonnay",
-  "Wine Name": "Val D’Oca Prosecco Treviso Extra Dry",
+  "Wine Name": "Val D’Oca Prosecco Treviso",
   "Producer": "Val D’Oca",
   "Vintage": null,
   "Tannin Level": "",
@@ -336,7 +336,7 @@
   "Sweetness": "Sweet",
   "Varietal": "Lambrusco",
   "General Recommended Accompanies": "Great with fresh fruit, desserts, and lightly sweet or spicy dishes.",
-  "Stella Recommended": "Baked Garlic Butter Lobster, Frutti di Bosco",
+  "Stella Recommended": "Baked Garlic Butter Lobster \"Escargot Style\", Frutti di Bosco",
   "Image": "QuercioliDolceReggianoLambrusco.png",
   "Summary": "Quercioli Dolce is a sweet, sparkling Lambrusco from Emilia-Romagna, crafted with organic grapes and certified carbon neutral. It offers vibrant red fruit, floral notes, and a lively, harmonious finish—perfect for fruit desserts or festive pairings.",
   "Unique Summary": "A sustainably produced, sweet sparkling red with violet aromatics and juicy red berry character from organically farmed Lambrusco grapes.",
@@ -352,7 +352,7 @@
 {
   "Wine Type": "Rose",
   "Blend": "67% Grenache, 21% Mourvèdre, 9% Counoise, 3% Vermentino",
-  "Wine Name": "Patelin de Tablas Rosé",
+  "Wine Name": "Tablas Creek Patelin de Tablas Rosé",
   "Producer": "Tablas Creek Vineyard",
   "Vintage": 2022,
   "Tannin Level": "",
@@ -391,7 +391,7 @@
 {
   "Wine Type": "Rose",
   "Blend": "Grenache, Cinsault, Rolle",
-  "Wine Name": "Symphonie Rosé",
+  "Wine Name": "St. Marguerite Symphonie Rosé",
   "Producer": "Chateau Sainte Marguerite",
   "Vintage": 2024,
   "Tannin Level": "",
